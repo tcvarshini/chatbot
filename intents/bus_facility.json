@@ -1,0 +1,162 @@
+{
+  "userSays": [
+    {
+      "id": "436966b6-c7cd-44a2-a966-2c66264d0c6c",
+      "data": [
+        {
+          "text": "transport"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c1cca02f-daca-4f8e-93b8-68396d322603",
+      "data": [
+        {
+          "text": "travel"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d949e58d-2de1-4c3d-9113-866007172909",
+      "data": [
+        {
+          "text": "buses"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ca7c184d-fcea-4259-a320-001f61f49191",
+      "data": [
+        {
+          "text": "bus availabilty"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "215e9807-f650-4b7f-80cc-7622d3a16ffa",
+      "data": [
+        {
+          "text": "does the college has a bus facility"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e56fda47-668f-46f5-9352-8038a86db217",
+      "data": [
+        {
+          "text": "does the college has a transport facility"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "277c0519-226d-41b9-bbb4-50c8be68c2dd",
+      "data": [
+        {
+          "text": "how many buses"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "82db824a-0b68-44bf-8c04-87e2fea90ab5",
+      "data": [
+        {
+          "text": "from where are  buses aviailing from"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a333989a-dc7d-4e87-856d-d7adde715a0e",
+      "data": [
+        {
+          "text": "bus facilites"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "36929ce0-257d-40e3-b1ae-f882cd7bf757",
+      "data": [
+        {
+          "text": "avilable bus routes"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "13ff74a5-27d0-455c-a34e-b07ad7d6668c",
+      "data": [
+        {
+          "text": "bus routes"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c4d868de-71a6-42f7-a4b3-213488663585",
+      "data": [
+        {
+          "text": "what are the available  bus routes"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "8aadc2de-66a3-47da-baeb-b04ad8efd7c4",
+  "name": "bus_facility",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 3,
+          "platform": "telegram",
+          "imageUrl": "http://nsrit.edu.in/admin/img/cms/transport.png"
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "title": "",
+          "imageUrl": "http://nsrit.edu.in/admin/img/cms/transport.png",
+          "buttons": []
+        },
+        {
+          "type": 0,
+          "speech": "NSRIT pick ups students and faculty and covers about all the corners of the city.\nIf you choose to take an RTC bus, from SImhachalam, you can catch Bus No.700\nand from Pendurthi,you can catch Bus No.888"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true,
+        "telegram": true
+      }
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

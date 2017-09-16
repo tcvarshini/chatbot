@@ -1,0 +1,146 @@
+{
+  "userSays": [
+    {
+      "id": "1ce7ced4-33f3-4b15-8285-09a4d976cdb8",
+      "data": [
+        {
+          "text": "hostel facility"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "bdb4a009-e001-4640-8264-07e6b8a5c577",
+      "data": [
+        {
+          "text": "residential facility"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d39aa0df-709f-4efe-b0f9-3c9eae913b4b",
+      "data": [
+        {
+          "text": "residential"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0581017e-c47c-4aaa-a46c-44726af29c6f",
+      "data": [
+        {
+          "text": " hostel facility"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c458b8db-6bb3-4b07-9958-ec6dfae058c1",
+      "data": [
+        {
+          "text": "hostel"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9d9c49e3-2a7f-4498-b285-7cb7884509c5",
+      "data": [
+        {
+          "text": "tell about hostels"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b07b8bf5-07a8-44de-8273-08b9d49be3bc",
+      "data": [
+        {
+          "text": "hostels"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "09ed0d9b-52d7-469d-9b91-c46116b47932",
+      "data": [
+        {
+          "text": "describe about hostels"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "8fdd82cf-43e5-4a02-8f22-763503dc1433",
+  "name": "hostel",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 3,
+          "platform": "telegram",
+          "imageUrl": "http://www.innovativepharmacy.in/images/boy_hostle.jpg"
+        },
+        {
+          "type": 0,
+          "platform": "telegram",
+          "speech": "Our Hostel Facilities:\n-\u003eFully equipped gym\n-\u003eSeparate courts for Volleyball, Basketball, Cricket, Hockey and Badminton\n-\u003eAn exclusive library with digital and multimedia facility, newspapers, magazines, journals, -\u003ebooks related to academics and competitive exams like GRE, GATE etc.\n-\u003eResident faculty who addresses the personal and academic needs of students in their respective blocks\n-\u003eLarge dining halls and a myriad of options in food keeping in view the various cultural backgrounds of the students\n-\u003eSolar water heating systems in each hostel for hot water\n-\u003eWater coolers in every block\n-\u003eTie-ups with multispecialty hospitals which provide adequate health facilities to students\n-\u003eWi-Fi and LAN connectivity\n-\u003eBanking facility with 5 ATMs is available to the students for money transactions"
+        },
+        {
+          "type": 2,
+          "platform": "telegram",
+          "title": "You May Like",
+          "replies": [
+            "hostel_food"
+          ]
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "imageUrl": "http://www.innovativepharmacy.in/images/boy_hostle.jpg"
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "speech": "Our Hostel Facilities:\n-\u003eFully equipped gym\n-\u003eSeparate courts for Volleyball, Basketball, Cricket, Hockey and Badminton\n-\u003eAn exclusive library with digital and multimedia facility, newspapers, magazines, journals, -\u003ebooks related to academics and competitive exams like GRE, GATE etc.\n-\u003eResident faculty who addresses the personal and academic needs of students in their respective blocks\n-\u003eLarge dining halls and a myriad of options in food keeping in view the various cultural backgrounds of the students\n-\u003eSolar water heating systems in each hostel for hot water\n-\u003eWater coolers in every block\n-\u003eTie-ups with multispecialty hospitals which provide adequate health facilities to students\n-\u003eWi-Fi and LAN connectivity\n-\u003eBanking facility with 5 ATMs is available to the students for money transactions"
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "title": "You May like",
+          "replies": [
+            "hostel_food"
+          ]
+        },
+        {
+          "type": 0,
+          "speech": [
+            "Good hostel facility with WiFi\nRegular study hours for students every day.\nFacilities::\n  -\u003eFully equipped gym\n-\u003eSeparate courts for Volleyball, Basketball, Cricket and Badminton\n-\u003eAn exclusive library with digital and multimedia facility, newspapers, magazines, journals, -\u003ebooks related to academics and competitive exams like GRE, GATE etc.",
+            "The Institute has on-campus Hostel facility, provided with all the amenities to ensure utmost comfort and convenience to the inmates. For the continuation of education, learning and practice, the hostels are provided with Internet facility round the clock and also provided drinking water facilities through an exclusive RO plant."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {}
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

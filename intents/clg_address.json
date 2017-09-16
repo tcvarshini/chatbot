@@ -1,0 +1,176 @@
+{
+  "userSays": [
+    {
+      "id": "e5c62b51-ef67-419e-b8be-465ce9dcf084",
+      "data": [
+        {
+          "text": "location"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "aee0be87-3232-4ae1-94a7-a6bae631587f",
+      "data": [
+        {
+          "text": "location of college"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "275b07e7-8384-40e6-955f-f72ac602d1cf",
+      "data": [
+        {
+          "text": "location of clg"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "30e58d9d-339a-44c2-9e86-06257dc1da5d",
+      "data": [
+        {
+          "text": "clg address"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "844dbb5c-8131-4045-83b4-cb9c041656ac",
+      "data": [
+        {
+          "text": "where is college"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a30580fc-e622-4234-afa9-4ad02242a9cb",
+      "data": [
+        {
+          "text": "college address"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e3313aaf-b2fd-4f6c-8af9-de52043b76cb",
+      "data": [
+        {
+          "text": "address"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2ee54ded-89ef-4cca-ae03-69b1a7adc36e",
+      "data": [
+        {
+          "text": "what  is your college address"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0e62c76f-f0c5-4f69-975d-1ffaf7da6fce",
+      "data": [
+        {
+          "text": "can you tell me the address of your college"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3708db58-e0de-4182-8a7d-40f0db00ee88",
+      "data": [
+        {
+          "text": "where is your college located"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8c0036fd-74b1-4934-a620-5f803cc423d4",
+      "data": [
+        {
+          "text": "how should i get to nsrit"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0865a2d2-3fd8-4137-b80f-06958b1469af",
+      "data": [
+        {
+          "text": "college location"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ade72c5c-6d20-447f-9dcc-e1eed35c3bcd",
+      "data": [
+        {
+          "text": "where is your college"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "a36ed2a1-7797-4646-95e7-cb08152231e8",
+  "name": "clg_address",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "telegram",
+          "title": "Addresss",
+          "subtitle": "Vizianagaram - Simhachalam Main Rd, Sontyam, Andhra Pradesh 531173, India",
+          "imageUrl": "https://scontent.fbom1-2.fna.fbcdn.net/v/t1.0-9/18119009_1318610551562124_8668901413213988332_n.jpg?oh\u003db10b940a33f83483b91821a592585467\u0026oe\u003d59F55019",
+          "buttons": []
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "title": "Addresss",
+          "subtitle": "Vizianagaram - Simhachalam Main Rd, Sontyam, Andhra Pradesh 531173, India",
+          "imageUrl": "https://scontent.fbom1-2.fna.fbcdn.net/v/t1.0-9/18119009_1318610551562124_8668901413213988332_n.jpg?oh\u003db10b940a33f83483b91821a592585467\u0026oe\u003d59F55019",
+          "buttons": []
+        },
+        {
+          "type": 0,
+          "speech": "N S RAJU INSTITUTE OF TECHNOLOGY (NSRIT) Sontyam, Pendurthi-Anandapuram Highway, Visakhapatnam - 531173, Andhra Pradesh, India."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true,
+        "telegram": true
+      }
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

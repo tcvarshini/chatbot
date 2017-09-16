@@ -1,0 +1,202 @@
+{
+  "userSays": [
+    {
+      "id": "288c3996-3056-41a6-b957-eb3893a4e3ee",
+      "data": [
+        {
+          "text": "how many cse dept faculty are there"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c64d4044-ef98-452c-8756-4992b4928d8a",
+      "data": [
+        {
+          "text": "cse teaching facility"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0e002ff9-1b53-4e8b-b6f8-06e1cf9475d7",
+      "data": [
+        {
+          "text": "cse teaching"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3188e1a3-5b4c-427f-8eba-3130b3c01ce6",
+      "data": [
+        {
+          "text": "tell me about cse faculty"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "76431c68-7c16-4d79-a127-5c14f5c81b01",
+      "data": [
+        {
+          "text": "may i know about cse faculty"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f288861e-39c9-405b-81c1-594dbf6a5603",
+      "data": [
+        {
+          "text": "cse teachers"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "bfbb2b34-6474-4b90-abf7-96ec3b05302a",
+      "data": [
+        {
+          "text": "cse dept faculty"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "861d3f6e-6211-4af3-8bad-829bf1dfb1c6",
+      "data": [
+        {
+          "text": "cse professors"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e07c4559-e6ff-4b43-9e78-a0a97835fbc3",
+      "data": [
+        {
+          "text": "cse faculty"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6ed8ddc3-813c-4b67-a73b-39ca6e91f72f",
+      "data": [
+        {
+          "text": "computer science engineering faculty"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "363b32d5-9b52-4b52-a71f-07c7b5519a70",
+      "data": [
+        {
+          "text": "COMPUTER SCIENCE \u0026 ENGINEERING DEPARTMENT staff"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "33e3208b-d111-4059-a859-52c5e0a7b352",
+      "data": [
+        {
+          "text": "COMPUTER SCIENCE \u0026 ENGINEERING DEPARTMENT faculty"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d41ffd46-26e8-49c1-98de-e0b7464cacb2",
+      "data": [
+        {
+          "text": "COMPUTER SCIENCE \u0026 ENGINEERING staff"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "6fa9f08b-5bad-457a-a697-47ae6162ffa5",
+      "data": [
+        {
+          "text": "cse staff"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "317a572d-3344-4f4d-abf3-55592acb4621",
+  "name": "cse staff",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 3,
+          "platform": "telegram",
+          "imageUrl": "http://nsrit.edu.in/admin/img/gallery/alm1.jpg"
+        },
+        {
+          "type": 2,
+          "platform": "telegram",
+          "title": "you may like",
+          "replies": [
+            "cse hod",
+            "cse labs",
+            "cse jobs",
+            "cse placements"
+          ]
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "imageUrl": "http://nsrit.edu.in/admin/img/gallery/alm1.jpg"
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "title": "you may like",
+          "replies": [
+            "cse hod",
+            "cse labs",
+            "cse jobs",
+            "cse placements"
+          ]
+        },
+        {
+          "type": 0,
+          "speech": "The department has highly qualified and experienced faculty members with good mixture of Professors, Associate Professors and Assistant Professors, whose areas of expertise and research include Network Security, Mobile Computing, Data Mining, Embedded Systems and Semantic Web.\nTO know more : http://nsrit.edu.in/dept_faculty.php?d_id\u003d5"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true,
+        "facebook": true
+      }
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

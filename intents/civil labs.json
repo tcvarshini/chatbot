@@ -1,0 +1,152 @@
+{
+  "userSays": [
+    {
+      "id": "b2e5d10d-39e0-4b0b-8867-717a87908cb3",
+      "data": [
+        {
+          "text": "what kind of labs are there for civil"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9fe5d57c-1ced-4dc8-b626-9edbf6a840f5",
+      "data": [
+        {
+          "text": "what all labs are there for civil"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "83f1379d-45cc-4ad2-91f8-a8f00a03d426",
+      "data": [
+        {
+          "text": "what labs for civil"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d35a9873-c1cb-4ea5-b004-1dd0bc97cd6b",
+      "data": [
+        {
+          "text": "how many labs for civil"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5d5561e7-7a75-4374-b01e-9ef85e410b5b",
+      "data": [
+        {
+          "text": "which civil labs does this college has"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "fa652e0d-cf5b-4aa5-bb5f-eebdff289347",
+      "data": [
+        {
+          "text": "about civil labs"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f042e5d0-0e37-4b86-9549-b933e48deabe",
+      "data": [
+        {
+          "text": "civil laboratories"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "01467d54-4e41-4f0c-b835-5abab274c50d",
+      "data": [
+        {
+          "text": "civil labs"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "112e0e62-151e-4244-a89b-547c4152366d",
+  "name": "civil labs",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "telegram",
+          "title": "",
+          "subtitle": "",
+          "imageUrl": "http://engineering.kau.edu.sa/Files/135/Galleries/2993/DSC_0005.JPG",
+          "buttons": []
+        },
+        {
+          "type": 0,
+          "platform": "telegram",
+          "speech": "NSRIT provides civil students with all the laboratories and facilities.\nTo know more : \" http://nsrit.edu.in/dept_labs.php?d_id\u003d1 \""
+        },
+        {
+          "type": 2,
+          "platform": "telegram",
+          "title": "you may like this..",
+          "replies": [
+            "civil hod",
+            "civil staff",
+            "civil placements"
+          ]
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "imageUrl": "http://engineering.kau.edu.sa/Files/135/Galleries/2993/DSC_0005.JPG"
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "speech": "About Laboratory Facilities:\nThe students are having exemplary lab facilities with heavy investment which are generally and rarely available and the lab equipment like Total Station, Universal testing Machine, Tri-axial testing Machine, CBR Apparatus. Shear Box Apparatus helps the students to have a wide industrial exposure."
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "title": "you may like....",
+          "replies": [
+            "civil hod",
+            "civil staff",
+            "civil placements"
+          ]
+        },
+        {
+          "type": 0,
+          "speech": "NSRIT provides civil students with all the laboratories and facilities.\nTo know more : \" http://nsrit.edu.in/dept_labs.php?d_id\u003d1 \""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": false
+      }
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,172 @@
+{
+  "userSays": [
+    {
+      "id": "cbcbd85e-2e92-4118-9a42-a63cd5831351",
+      "data": [
+        {
+          "text": "electrical head of department"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9f043aec-fad9-4d3d-a6db-bdefeff65d40",
+      "data": [
+        {
+          "text": "electrical hod"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1a353ee3-90d0-4169-9601-3d1886d3b5ed",
+      "data": [
+        {
+          "text": "eee hod of department"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0a23bb18-b8a4-4731-b153-b366c9edcab7",
+      "data": [
+        {
+          "text": "hod eee"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8afa6a41-2d58-4637-9a69-f80ba314321e",
+      "data": [
+        {
+          "text": "electrical department head"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b594be10-4311-4bd1-8d1f-8156890dd212",
+      "data": [
+        {
+          "text": "electrical department hod"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "638e6f51-357c-4974-bc71-45866991495f",
+      "data": [
+        {
+          "text": "head of electrical department"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e11d0d2c-5d24-4599-89f3-d0c937a396de",
+      "data": [
+        {
+          "text": "head of eee department"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "23b6e6ab-30f4-47c2-b848-ccab68310330",
+      "data": [
+        {
+          "text": "head of electrical and electronics dept"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1431bd5a-5b3f-4cf7-ba28-152bc9526037",
+      "data": [
+        {
+          "text": "head of dept eee"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8df91ddf-b312-4f14-9683-e3ac0ef376fa",
+      "data": [
+        {
+          "text": "hod of eee"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "90e48075-9200-46f6-a9df-1fed86ecfa76",
+      "data": [
+        {
+          "text": "eee hod"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "b5ca73d0-7200-4245-83a2-67b98ee80caf",
+  "name": "eee hod",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "facebook",
+          "title": "you may like",
+          "replies": [
+            "eee staff",
+            "eee labs",
+            "eee jobs",
+            "eee placements"
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "telegram",
+          "title": "you may like",
+          "replies": [
+            "eee staff",
+            "eee labs",
+            "eee jobs",
+            "eee placements"
+          ]
+        },
+        {
+          "type": 0,
+          "speech": "K.S.Ramanjaneyulu\nM.E\nDesignation :Sr.Asst Prof \u0026 HOD\nExperience :7 Years"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true,
+        "telegram": true
+      }
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

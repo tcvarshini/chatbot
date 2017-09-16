@@ -1,0 +1,191 @@
+{
+  "userSays": [
+    {
+      "id": "0a821040-5301-4ce2-adde-5cc90fae679c",
+      "data": [
+        {
+          "text": "mechanical engg labs"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "49420bf0-ccc8-4f21-8b08-1cc40ec18e59",
+      "data": [
+        {
+          "text": "mechanical labs"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6dea6a47-8c10-4a56-b69e-b1ce608dd6fc",
+      "data": [
+        {
+          "text": "mech dept labs"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f5f5221c-ea40-4ed5-a336-aa7ad3420d08",
+      "data": [
+        {
+          "text": "how are the mech labs"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9fa3dd35-d761-44a8-960e-8b297059b099",
+      "data": [
+        {
+          "text": "mechanical laboratories"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6c966ae1-1037-4c7f-9798-723158edbf1a",
+      "data": [
+        {
+          "text": "mech laboratories"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6f5deedf-c39a-4688-b1e8-042ad7734a41",
+      "data": [
+        {
+          "text": "labs for mechanical engineering department"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "bf613f39-05f8-43b9-a342-b78d47df3983",
+      "data": [
+        {
+          "text": "labs for mechanical engineering"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0b99ff35-030d-4962-8d15-373ad60210a1",
+      "data": [
+        {
+          "text": "labs for mechanical"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7998e2d3-5cf9-4798-8204-c734736edcf0",
+      "data": [
+        {
+          "text": "labs for mech"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6e25a844-515a-4f79-b769-628e67a349a9",
+      "data": [
+        {
+          "text": "mechanical engineering department labs"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a8942bd4-a7db-46fd-97f5-17f359d9b3b1",
+      "data": [
+        {
+          "text": "mechanical engineering labs"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "99b0160f-54b6-4dbf-b482-649982b1deaa",
+      "data": [
+        {
+          "text": "mech labs"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "63f54acc-bde6-4200-898a-41333656d054",
+  "name": "mech labs",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 3,
+          "platform": "telegram",
+          "imageUrl": "http://rceroorkee.in/wp-content/uploads/2016/11/bme.jpg"
+        },
+        {
+          "type": 2,
+          "platform": "telegram",
+          "title": "you may like",
+          "replies": [
+            "mech hod",
+            "mech staff",
+            "mech placements"
+          ]
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "imageUrl": "http://rceroorkee.in/wp-content/uploads/2016/11/bme.jpg"
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "title": "you may like",
+          "replies": [
+            "mech hod",
+            "mech staff",
+            "mech placements"
+          ]
+        },
+        {
+          "type": 0,
+          "speech": "Mechanics of Solids \u0026 Metallurgy Lab\nBasic Electrical \u0026 Electronics Engineering Lab\nFluid mechanics \u0026 Hydraulic machinery Lab\nThermal Engineering Lab\nMetrology \u0026 Instrumentation Lab\nMachine Tools Lab\nHeat Transfer Lab\nSimulation Lab"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true,
+        "facebook": true,
+        "telegram": true
+      }
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

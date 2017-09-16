@@ -1,0 +1,195 @@
+{
+  "userSays": [
+    {
+      "id": "acaa4bd8-fc59-43ee-a0f1-e2585c9888b8",
+      "data": [
+        {
+          "text": "eee department laboratories"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "d383ca4b-1839-4952-a2bf-083dc74a22a6",
+      "data": [
+        {
+          "text": "eee branch laboratories"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b8111b0a-0886-4bd0-8055-1a8fc68d234e",
+      "data": [
+        {
+          "text": "eee dept labs"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e349d72b-fc6d-4481-b307-5aa15564032a",
+      "data": [
+        {
+          "text": "eee branch labs"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "bd1ee6ab-36ea-424c-99ad-e0999baff19f",
+      "data": [
+        {
+          "text": "electrical labs"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7b2d9dcf-c935-4860-abf9-1f810445e2f7",
+      "data": [
+        {
+          "text": "electrical laboratories"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "eeb8aa8e-1975-47cc-b37d-5b9386e26203",
+      "data": [
+        {
+          "text": "eee labs"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ce5a9a17-21c0-4ef8-8ee9-d5ec2d055733",
+      "data": [
+        {
+          "text": "labs for ELECTRICAL \u0026 ELECTRONICS ENGINEERING department"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f578de8c-007e-484d-b9d4-66375677a5b6",
+      "data": [
+        {
+          "text": "labs for ELECTRICAL \u0026 ELECTRONICS ENGINEERING"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1e5be32d-364d-4c50-a491-694d4096cf53",
+      "data": [
+        {
+          "text": "labs for eee"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "020be442-7c85-47b5-bfd4-9c4592b71d20",
+      "data": [
+        {
+          "text": "ELECTRICAL \u0026 ELECTRONICS ENGINEERING department labs"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "cf8afcb2-9133-4706-a439-260b9bb190ae",
+      "data": [
+        {
+          "text": "ELECTRICAL \u0026 ELECTRONICS ENGINEERING labs"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8bcf5836-7394-4303-983c-1a6c806daf3e",
+      "data": [
+        {
+          "text": "eee labaratory"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    }
+  ],
+  "id": "0b0e9161-5def-407d-a7ae-d2fc3de254b4",
+  "name": "eee labs",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "telegram",
+          "title": "",
+          "subtitle": "",
+          "imageUrl": "http://www.gannon.edu/uploadedImages/Website_Assets/Electrical_and_Computer_Engineering_Department/DSCF1565.JPG",
+          "buttons": []
+        },
+        {
+          "type": 2,
+          "platform": "telegram",
+          "title": "You May Like",
+          "replies": [
+            "eee hod",
+            "eee staff",
+            "eee jobs",
+            "eee placements"
+          ]
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "imageUrl": "http://www.gannon.edu/uploadedImages/Website_Assets/Electrical_and_Computer_Engineering_Department/DSCF1565.JPG"
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "title": "you may like",
+          "replies": [
+            "eee hod",
+            "eee staff",
+            "eee jobs",
+            "eee placements"
+          ]
+        },
+        {
+          "type": 0,
+          "speech": "The department has well equipped laboratories with the latest equipment like Schrage motor, cascade transformers etc\nThermal and Hydro Lab\nElectrical Circuits Lab\nElectrical Machines -I Lab\nElectronic Devices \u0026 Circuits Lab\nElectrical Machines-II Lab\nControl Systems Lab\nPower Electronics Lab\nElectrical Measurements Lab\nMicroprocessors \u0026 Microcontrollers Lab\nElectrical Simulation Lab\nPower systems lab"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true,
+        "telegram": true
+      }
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

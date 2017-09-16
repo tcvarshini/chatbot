@@ -1,0 +1,283 @@
+{
+  "userSays": [
+    {
+      "id": "e3da4bd2-11e3-4782-a095-b07ed04cf9ea",
+      "data": [
+        {
+          "text": "information regarding cse"
+        }
+      ],
+      "isTemplate": false,
+      "count": 2
+    },
+    {
+      "id": "85d39951-5052-4c6b-babc-f878fc075195",
+      "data": [
+        {
+          "text": "may i know about cse"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "2c905f41-75ca-4adf-b471-665597305a3d",
+      "data": [
+        {
+          "text": "cse stream"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5bfd9a9d-a964-4163-b515-e688a45ae093",
+      "data": [
+        {
+          "text": "tell me about cse branch"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e3c9a364-e9f3-427f-a9e8-208747fcabc6",
+      "data": [
+        {
+          "text": "tell me\b about cse information"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9c8c0060-af67-4d38-8f4b-81682d236300",
+      "data": [
+        {
+          "text": "information about cse dept"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a759f833-f590-4031-89a9-470be08b6ada",
+      "data": [
+        {
+          "text": "may i know about cse information"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1db7a4af-7604-4905-9891-9e5868866ebb",
+      "data": [
+        {
+          "text": "cse info"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ece8185e-f0ee-4397-a86b-1a43bdfab0d8",
+      "data": [
+        {
+          "text": "cse information"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "232e2807-3c91-44a0-94ea-9254837ae4ea",
+      "data": [
+        {
+          "text": "computer science engineering"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3ad34a17-ec48-4cab-b2b8-cc79168e94e1",
+      "data": [
+        {
+          "text": "cs dept"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "be48f05d-a742-489b-b86b-9d35edd97b53",
+      "data": [
+        {
+          "text": "computer science engg"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2608a509-836f-4ff4-8b19-99dfdfc1800f",
+      "data": [
+        {
+          "text": "computer science department \b"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "655464f8-7a62-40bd-822e-c972aaf6d7ad",
+      "data": [
+        {
+          "text": "tell me about computer science department"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ba70999b-13ea-480d-abcd-0d779070612a",
+      "data": [
+        {
+          "text": "tell me about computer science"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8f7a5c7d-f909-4a41-9d70-1695c0f37ee4",
+      "data": [
+        {
+          "text": "tell me about cse"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c69b01e0-e078-4d2f-a819-12b93491438b",
+      "data": [
+        {
+          "text": "computer science department"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "aeefbe6b-afa5-481e-a523-81af945cdfd7",
+      "data": [
+        {
+          "text": "computer science"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4562846a-f9e6-4b9d-a6dc-b914b14a8dfd",
+      "data": [
+        {
+          "text": "about cse"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b1d1a1c7-2452-4ba3-9ec6-bb2b3d8ad637",
+      "data": [
+        {
+          "text": "cse branch"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f8717027-b651-4e8a-b949-1cbf039f4b5a",
+      "data": [
+        {
+          "text": "CSE"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "87a9801b-416f-4e3b-a8b0-217d04ecf776",
+  "name": "CSE",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "telegram",
+          "title": "",
+          "subtitle": "",
+          "imageUrl": "http://www.sumra.in/wp-content/uploads/2016/03/computer-science-2-copy.gif",
+          "buttons": []
+        },
+        {
+          "type": 2,
+          "platform": "telegram",
+          "title": "you may like",
+          "replies": [
+            "cse hod",
+            "cse staff",
+            "cse labs",
+            "cse jobs",
+            "cse placements"
+          ]
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "imageUrl": "http://www.sumra.in/wp-content/uploads/2016/03/computer-science-2-copy.gif"
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "speech": "About  COMPUTER SCIENCE \u0026 ENGINEERING \nThe Department equips its students not only with the technical knowledge to enable them to meet the challenges of global standards but also integrates value education, environmental awareness and communication skills into its curriculum to mould the students as responsible citizens\nNo.of seats:120"
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "title": "You may like",
+          "replies": [
+            "cse hod",
+            "cse staff",
+            "cse labs",
+            "cse jobs",
+            "cse placements"
+          ]
+        },
+        {
+          "type": 0,
+          "speech": "To be model Department in providing high quality education and research in the area of Computer Science \u0026 Engineering with a strong foundation of organizational excellence and core values.\nNo.of Seats  :120\nNo.of faculty: 18\nNo.of Labs:5"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": false,
+        "telegram": true,
+        "google": true
+      }
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

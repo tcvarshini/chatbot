@@ -1,0 +1,137 @@
+{
+  "userSays": [
+    {
+      "id": "1043b6f0-ce45-48bc-8fbc-103bdebeb153",
+      "data": [
+        {
+          "text": "jobs for civil"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "73105bea-56ee-41fc-9725-c728848670b0",
+      "data": [
+        {
+          "text": "placements are available in civil"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "90d95eae-750e-476c-9186-20ce415be98c",
+      "data": [
+        {
+          "text": "job offers in civil"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9c6ceeb1-5f31-4768-becd-fa2a5ec01e45",
+      "data": [
+        {
+          "text": "jobs in civil"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "231129fb-e5b1-4596-8389-8166cbe99757",
+      "data": [
+        {
+          "text": "compaines in civil"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "51cd9d1a-59a4-44b8-8f56-a9d7c32afbf4",
+      "data": [
+        {
+          "text": "placements in civil"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b365e704-8e68-4a2f-9b83-bb58a8e53ad2",
+      "data": [
+        {
+          "text": "civil placements"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "397a39eb-d3b5-433a-9055-fff87708d749",
+  "name": "civil placements",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "telegram",
+          "title": "",
+          "subtitle": "",
+          "imageUrl": "https://s-media-cache-ak0.pinimg.com/originals/a4/60/8f/a4608f543eed98b4441fd6e08f429b8b.jpg",
+          "buttons": []
+        },
+        {
+          "type": 2,
+          "platform": "telegram",
+          "title": "you may like...",
+          "replies": [
+            "civil hod",
+            "civil staff",
+            "civil labs"
+          ]
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "imageUrl": "https://s-media-cache-ak0.pinimg.com/originals/a4/60/8f/a4608f543eed98b4441fd6e08f429b8b.jpg"
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "speech": "companies visiting our campus are :\nBHEL\nGAIL\nSAIL  etc.....\nNo.of students placed every year:24 Aprx"
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "title": "You may like",
+          "replies": [
+            "civil hod",
+            "civil staff",
+            "civil labs"
+          ]
+        },
+        {
+          "type": 0,
+          "speech": "companies visiting our campus are :\nBHEL\nGAIL\nSAIL  etc.....\nNo.of students placed every year:24 Aprx"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      }
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

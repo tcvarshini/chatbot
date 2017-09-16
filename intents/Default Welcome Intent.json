@@ -1,0 +1,168 @@
+{
+  "userSays": [
+    {
+      "id": "d214794d-e5ab-4600-8587-fc63554d2951",
+      "data": [
+        {
+          "text": "hey there"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0065b069-aea9-4874-ad35-61c6b87ddde7",
+      "data": [
+        {
+          "text": "hey"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "15a352ed-9de9-40b8-b5c6-8b859efc29bb",
+      "data": [
+        {
+          "text": "hi"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "377690dc-5405-420a-a1da-513c0c272e63",
+      "data": [
+        {
+          "text": "what is this"
+        }
+      ],
+      "isTemplate": false,
+      "count": 2
+    },
+    {
+      "id": "e2bd731a-b6f8-4873-9c10-f991d07e5d93",
+      "data": [
+        {
+          "text": "how are you"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "9eecb180-ce6b-4bf4-a3d2-adc613e4c0dd",
+      "data": [
+        {
+          "text": "heyyy"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "2ab5b2a6-246f-4e54-bc8c-5742d3407d14",
+      "data": [
+        {
+          "text": "hai"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1641265f-7244-4494-a459-93797fdc6d4c",
+      "data": [
+        {
+          "text": "yo"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8fcce6f7-b5d9-4841-82a6-9640d5407568",
+      "data": [
+        {
+          "text": "heya"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "dca8211f-adf8-4969-a9e7-b56c7aed8c2f",
+      "data": [
+        {
+          "text": "heyy"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9f556658-1eb3-4fde-99b4-693b60f551d3",
+      "data": [
+        {
+          "text": "hello"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ef4032ae-5404-466b-aaab-5c2179e0a6ee",
+      "data": [
+        {
+          "text": "hii"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "7754c6f2-e257-482b-9072-ec532c208d00",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "telegram",
+          "title": "you may select the following....",
+          "replies": [
+            "About us",
+            "branches",
+            "hostel",
+            "bus",
+            "sports",
+            "library"
+          ]
+        },
+        {
+          "type": 0,
+          "speech": "Welcome to NSRIT Engineering college bot.\nYou may type whatever you want to know about this college.\nGo on..."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true,
+        "telegram": true
+      }
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ]
+}

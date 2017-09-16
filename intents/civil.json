@@ -1,0 +1,196 @@
+{
+  "userSays": [
+    {
+      "id": "5b1450c4-9526-4a57-bd16-141e7a837e7d",
+      "data": [
+        {
+          "text": "does the college take in civil students"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a0695c11-227f-4c98-ae9b-3f0ba4dbd1c6",
+      "data": [
+        {
+          "text": "tell me about civil branch"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9c7a2106-b906-4c7b-b17d-60f86f86239b",
+      "data": [
+        {
+          "text": "tell me about civil department"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b0922050-348c-4151-969c-a572d4b8110e",
+      "data": [
+        {
+          "text": "civil dept"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b7ade042-3d5c-4692-a656-0aa9a945c367",
+      "data": [
+        {
+          "text": "seats in civil"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "48313f34-2979-41fe-8aff-079621c9ef1d",
+      "data": [
+        {
+          "text": "civil seats"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "65c97f2c-98a2-4ee9-8e8b-232921db5ec3",
+      "data": [
+        {
+          "text": "civil"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "828ce0c6-09ca-4779-91f4-982c3ce4e68a",
+      "data": [
+        {
+          "text": "civil branch"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9a38d67b-b343-44bd-bdb4-4712f57319ce",
+      "data": [
+        {
+          "text": "civil department"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "83398ba7-e4e9-45ab-9f7a-66edd9b41ec4",
+      "data": [
+        {
+          "text": "civil engineering  department"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "77f65f4c-3b49-468d-ad89-e54e9cad44cf",
+      "data": [
+        {
+          "text": "abt civil dept"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0a9edae0-a5e4-463c-b4be-baf3be07559c",
+      "data": [
+        {
+          "text": "civil engineering"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ee79ba37-80eb-438b-9d2b-6e6c13b347c3",
+      "data": [
+        {
+          "text": "about civil department"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "18a30660-e64f-44ea-b523-039804c05e13",
+  "name": "civil",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "telegram",
+          "title": "",
+          "subtitle": "",
+          "imageUrl": "http://nsrit.edu.in/admin/img/gallery/civgal4.jpg",
+          "buttons": []
+        },
+        {
+          "type": 2,
+          "platform": "telegram",
+          "title": "you may like",
+          "replies": [
+            "civil hod",
+            "civil staff",
+            "civil labs",
+            "civil placement"
+          ]
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "imageUrl": "http://nsrit.edu.in/admin/img/gallery/civgal4.jpg"
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "title": "you may like...",
+          "replies": [
+            "civil hod",
+            "civil staff",
+            "civil labs",
+            "civil placements"
+          ]
+        },
+        {
+          "type": 0,
+          "speech": "Civil engineering is a professional engineering discipline that deals with the design, construction, and maintenance of the physical and naturally built environment, including works like roads, bridges, canals, dams, and buildings.\nStudent Intake : 60"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true,
+        "telegram": true,
+        "google": true
+      }
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

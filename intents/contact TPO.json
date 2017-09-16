@@ -1,0 +1,80 @@
+{
+  "userSays": [
+    {
+      "id": "1f1f4353-88a5-47ce-a159-8170ae1d327e",
+      "data": [
+        {
+          "text": "placement officer"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d868ae5b-e6a5-4879-9bdf-8936bfdb9759",
+      "data": [
+        {
+          "text": "contact tpotpo details"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "28ff9294-426c-40ca-99a8-5ab0e83ba223",
+      "data": [
+        {
+          "text": "contact tpo"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "095c08d6-96d2-4a6c-b84c-b90f9ea96010",
+      "data": [
+        {
+          "text": "tpo"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "06b17ecf-baea-428d-9e8b-290a9d9efd78",
+      "data": [
+        {
+          "text": "training and placement officer"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "c4cd8d11-d82d-4c41-9bb9-2d0337f7b975",
+  "name": "contact TPO",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "M.Ch.Jagan Sekhar, TPO\n\nAssistant Professor, Dept of CSE,\n\nEmail: tpo.nsrit@gmail.com.\n\nPhone: 7680026586"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true,
+        "telegram": true
+      }
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

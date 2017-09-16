@@ -1,0 +1,115 @@
+{
+  "userSays": [
+    {
+      "id": "018cce29-49a2-491e-834a-21f855f56a9f",
+      "data": [
+        {
+          "text": "how sthe food in "
+        },
+        {
+          "text": "college",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "bf4c9ce9-30e3-4522-a004-836d7bc1e2b6",
+      "data": [
+        {
+          "text": "hows the food in clg"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e87c416f-03b0-46e1-86d5-b33be22dbcee",
+      "data": [
+        {
+          "text": "food in hostel"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a7f68abc-d18a-41ee-aec8-e4818da7ba3b",
+      "data": [
+        {
+          "text": "condition of food in the hostel"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2357068f-6397-4220-90cf-93099974bbd9",
+      "data": [
+        {
+          "text": "what is the condition of the hostel food"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "ca2eda57-5cd5-4d02-b81d-9370054e7436",
+      "data": [
+        {
+          "text": "how the hostel food will be"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "fe9eb7ec-6d6d-44b8-b3ba-20c0719139ad",
+      "data": [
+        {
+          "text": "hostel food"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "b48c6bdc-afa3-4c1a-be63-54823bfc5435",
+  "name": "hostel food",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 3,
+          "platform": "facebook",
+          "imageUrl": "https://mingblogging.files.wordpress.com/2015/09/hostel-mess.jpg"
+        },
+        {
+          "type": 3,
+          "platform": "telegram",
+          "imageUrl": "https://mingblogging.files.wordpress.com/2015/09/hostel-mess.jpg"
+        },
+        {
+          "type": 0,
+          "speech": "TALI:White Rice, Brinjal Curry, Lentil Soup. Sambhar, Dhal, Ghobhi Pickle, Cilantro Pickle, Ghobhi curry, Cabbage Fry , Bhendi Fry, Carrot Fry, Beetroot Fry, Curd , Beans Curry, French Cut Beans Fry, Drum Sticks curry, Lemon Rice, Veg Fried Rice, Veg Biryani , Potato Curry.\n\nNORTH INDIA TALI:Roti, Pulka, Raitha, Dhal, Pane-er Curry, Chana Curry , Aloo Curry, Bhendi Masala, Mushroom curry, Aloo fry, Curd.\n\nNON-VEG:Egg Bhurji, Chicken Curry , Chicken Fry, Chicken Tandoori , Fish Fry , Boiled Egg, Mutton Curry , Egg Om-let .\n\n\nBREAKFAST:Idly, Dosa, Masala Dosa, Vada, Puri , Chapati, Up-ma, Pa-rota, Toasted Bread with Jam and Butter , Tea, Coffee,Milk, Juice.\n\nSNACKS:Samosa, Pa-av Bhaji, Pakodi, Biscuits, Tea, Coffee, Juice, Milk."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true,
+        "telegram": true
+      }
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

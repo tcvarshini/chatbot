@@ -1,0 +1,150 @@
+{
+  "userSays": [
+    {
+      "id": "50113e7e-3c2d-41d5-8ad4-fb299a8f6f36",
+      "data": [
+        {
+          "text": "about us"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "9f804e66-adc9-4791-955b-05053d23211a",
+      "data": [
+        {
+          "text": "about u"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3a2b1f9f-cdd7-4a86-a8a3-9e168dd08d96",
+      "data": [
+        {
+          "text": "about our college"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7b2ed88f-2717-4961-8a14-4005c6fc2f71",
+      "data": [
+        {
+          "text": "about nsrit"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6a60c247-8ca9-4988-8ffd-24f8d954e0ef",
+      "data": [
+        {
+          "text": "nsrit"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "858f21f2-cfff-4265-b358-6fb1f4aa1a59",
+      "data": [
+        {
+          "text": "our college"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "feb77593-fe69-4b08-afb8-711e547d13b9",
+      "data": [
+        {
+          "text": "college"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4fd98b58-50d1-4e05-875a-5ff21b39bb7d",
+      "data": [
+        {
+          "text": "college details"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b5613e09-dc8a-4ba2-afbf-eeaa76ca26a5",
+      "data": [
+        {
+          "text": "this college"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "82d1bd9d-db20-4e7a-b634-d11f12009422",
+      "data": [
+        {
+          "text": "clg"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "801daa7a-69cf-4f5c-a04d-b768e6b0e6e5",
+      "data": [
+        {
+          "text": "about college"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "f6d0b1df-92f7-4e8e-8e36-0275b93fedde",
+  "name": "about college",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 3,
+          "platform": "telegram",
+          "imageUrl": "https://scontent.fbom1-2.fna.fbcdn.net/v/t1.0-9/16640877_1251752318247948_2922402478405282820_n.jpg?oh\u003d56eab3e2222aad1f27581f998c34e114\u0026oe\u003d59FA9A16"
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "imageUrl": "https://scontent.fbom1-2.fna.fbcdn.net/v/t1.0-9/16640877_1251752318247948_2922402478405282820_n.jpg?oh\u003d56eab3e2222aad1f27581f998c34e114\u0026oe\u003d59FA9A16"
+        },
+        {
+          "type": 0,
+          "speech": "Nadimpalli Satyanarayana Raju Institute of Technology was established in the year 2008.NSRIT offers quality education and attempts to integrate classroom learning with industry exposure to ensure the application of knowledge during the course of study itself.\ncollege code: NSRT"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true,
+        "facebook": true
+      }
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

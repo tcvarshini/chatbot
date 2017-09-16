@@ -1,0 +1,200 @@
+{
+  "userSays": [
+    {
+      "id": "5bb2aa34-99d3-4e8d-bd29-bcb42dc71099",
+      "data": [
+        {
+          "text": "main head of mechanical engineering"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "eba3754a-2e9b-4aab-8cf0-4210cb65ff98",
+      "data": [
+        {
+          "text": "main head of mech department"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2433eea7-2091-46a8-91f5-c495bbee060c",
+      "data": [
+        {
+          "text": "main head of mech"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "480275a8-2836-4333-afdf-24b5dfc63cf1",
+      "data": [
+        {
+          "text": "head of the department mecch"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "25fa5e36-5d32-4a4f-a51f-d79120960c2b",
+      "data": [
+        {
+          "text": "head of the department of mechanical engineering"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ed36626b-2c94-4379-86a7-a16b47a0fd8e",
+      "data": [
+        {
+          "text": "head of the department of mech"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2aa877d5-2ff8-4b1e-8824-e748654012d5",
+      "data": [
+        {
+          "text": "mechanical dpt hod"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "897a1775-4e0d-4476-85ee-3eea8736688f",
+      "data": [
+        {
+          "text": "mech hod"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "123a1222-e45f-4998-adfb-7a1e670bed5d",
+      "data": [
+        {
+          "text": "mech head"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3ef5bda5-1c7d-4173-9f9e-5b9e9dd07662",
+      "data": [
+        {
+          "text": "head mech"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5df776e3-9591-403e-8eef-4ff79418bb3c",
+      "data": [
+        {
+          "text": "head of mech engineering dept"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "fa613235-9e66-4816-be71-558e7775e78f",
+      "data": [
+        {
+          "text": "head of mechanical department"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "bc55f20b-aeeb-42ee-9fc6-7f74634a1c57",
+      "data": [
+        {
+          "text": "mechanical dept hod"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "66c63e65-2462-4b0c-8ec2-33af8691c1fa",
+      "data": [
+        {
+          "text": "hod for mech"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d2214528-1240-4fa9-9b61-90f527f783e6",
+      "data": [
+        {
+          "text": "mechanical hod"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "4dd9ed65-42cb-4bba-ac9e-36255616dafd",
+  "name": "mechanical hod",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "facebook",
+          "title": "you may like",
+          "replies": [
+            "mech staff",
+            "mech labs",
+            "mech placements"
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "telegram",
+          "title": "you may like",
+          "replies": [
+            "mech staff",
+            "mech labs",
+            "mech placements"
+          ]
+        },
+        {
+          "type": 0,
+          "speech": "Sri P.V.S.MURALI KRISHNA\nM.Tech (PhD)\nDesignation :Assoc Prof \u0026 HOD\nExperience : 11 Years"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true,
+        "telegram": true
+      }
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

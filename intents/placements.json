@@ -1,0 +1,184 @@
+{
+  "userSays": [
+    {
+      "id": "e8d7571f-11a9-4936-8231-17ece06f099d",
+      "data": [
+        {
+          "text": "campuses"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d73bbaa8-916c-4447-a66c-5e2f379feb7c",
+      "data": [
+        {
+          "text": "placements for under graduates"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c01b4a40-370b-409e-be22-263311c656ab",
+      "data": [
+        {
+          "text": "placements for ug"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b9bcbd62-0d80-4df7-8675-375c7b615d52",
+      "data": [
+        {
+          "text": "placements for graduates"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "fdb53546-0dfa-4f02-b0c3-d70812955ca5",
+      "data": [
+        {
+          "text": "placements "
+        },
+        {
+          "text": "for",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " students"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7ec9cef1-6948-4983-adae-19226fae719f",
+      "data": [
+        {
+          "text": "placements for studentss"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "eca66bc5-7b2e-40c6-84c1-afe149d3e990",
+      "data": [
+        {
+          "text": "campus placements"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9baf6c26-eb2e-42bc-8ffa-5aec1fef3241",
+      "data": [
+        {
+          "text": "pool drives \b"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "588f1fcd-05a0-4fee-bd62-a8bc57c2253d",
+      "data": [
+        {
+          "text": "companies"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a61e0538-d7a2-4169-a643-3e43070ca3b1",
+      "data": [
+        {
+          "text": "placements"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8a275529-7e8b-4e41-93f6-20c52ecee081",
+      "data": [
+        {
+          "text": "compinies visit"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c1f6eaa6-e984-4671-b71e-3bf2150987ea",
+      "data": [
+        {
+          "text": "campus drive"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "c597778f-a97f-4908-8b2a-c6f4c0389d0e",
+  "name": "placements",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 3,
+          "platform": "telegram",
+          "imageUrl": "http://www.amity.edu/aibs/images/placement.jpg"
+        },
+        {
+          "type": 2,
+          "platform": "telegram",
+          "title": "you may like",
+          "replies": [
+            "contact TPO"
+          ]
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "imageUrl": "http://www.amity.edu/aibs/images/placement.jpg"
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "title": "you may like",
+          "replies": [
+            "contact TPO"
+          ]
+        },
+        {
+          "type": 0,
+          "speech": "To know the full details of Training and Placements :\nvisit : http://nsrit.edu.in/oth_placement_summury.php"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true,
+        "telegram": true
+      }
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

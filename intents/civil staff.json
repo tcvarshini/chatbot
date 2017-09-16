@@ -1,0 +1,177 @@
+{
+  "userSays": [
+    {
+      "id": "ce7218cf-a8db-40bb-b512-ae4b9df1f462",
+      "data": [
+        {
+          "text": "civil teachers"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b84a30e8-50e5-4415-812f-9bf0a67f258e",
+      "data": [
+        {
+          "text": "civil professors"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "58809e0c-2af3-49d1-9ad8-0aa07f011507",
+      "data": [
+        {
+          "text": "civil teaching team"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8e52d8a9-f534-4d61-82b6-b316c4bd25e4",
+      "data": [
+        {
+          "text": "professors of civil"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0f49eed6-f5e3-44f8-a8c0-9b4b20683002",
+      "data": [
+        {
+          "text": "faculty of civil"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "452c6b50-89e6-40ed-81e5-60ec67fbd86e",
+      "data": [
+        {
+          "text": "civil department faculty"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d9268e1d-ec54-4c68-ac9b-4b8b31eee15d",
+      "data": [
+        {
+          "text": "civil department teachers"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4ad6ba06-c37c-4c15-97c0-03d6de610e80",
+      "data": [
+        {
+          "text": "civil department professors"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e6dcf2f3-fad7-4556-806d-5e2a47a81224",
+      "data": [
+        {
+          "text": "faculty of civil dept"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "337193b3-9beb-4e98-9490-cb8b9085bd46",
+      "data": [
+        {
+          "text": "civil faculty"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6929c228-0db2-4906-b9dc-c52a7ad1f115",
+      "data": [
+        {
+          "text": "civil staff"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "efbe5f7d-b75b-43a3-941f-5902927f6cd0",
+  "name": "civil staff",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "telegram",
+          "title": "",
+          "subtitle": "",
+          "imageUrl": "http://www.sriguru.ac.in/wp-content/uploads/2014/09/Civilhome.png",
+          "buttons": []
+        },
+        {
+          "type": 2,
+          "platform": "telegram",
+          "title": "you may like",
+          "replies": [
+            "civil hod",
+            "civil labs",
+            "civil placements"
+          ]
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "imageUrl": "http://www.sriguru.ac.in/wp-content/uploads/2014/09/Civilhome.png"
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "speech": "About Faculty:\n\nThe Department has qualified and experienced faculty. They also provide an open platform for learning to the students, by clarifying their doubts regularly."
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "title": "you may like..",
+          "replies": [
+            "civil hod",
+            "civil labs",
+            "civil placements"
+          ]
+        },
+        {
+          "type": 0,
+          "speech": "The Civil Department has qualified and experienced faculty. They also provide an open platform for learning to the students, by clarifying their doubts regularly.\nFaculty List : http://nsrit.edu.in/dept_faculty.php?d_id\u003d1"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      }
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

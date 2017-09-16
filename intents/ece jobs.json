@@ -1,0 +1,167 @@
+{
+  "userSays": [
+    {
+      "id": "fca22c84-07ab-42a9-9f1f-6aadec8a313f",
+      "data": [
+        {
+          "text": "ece department jobs"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e9594aaa-6073-4dbb-b7ad-b47810f21f76",
+      "data": [
+        {
+          "text": "ece job"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f84d419d-4ab2-4059-b291-29a8705ee1fa",
+      "data": [
+        {
+          "text": "jobs for  ELECTRONICS \u0026 COMMUNICATION"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "bb77ef7e-c0cf-4818-97f1-ce3f7b9ea413",
+      "data": [
+        {
+          "text": "jobs for  ELECTRONICS \u0026 COMMUNICATION ENGINEERING department"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b48867ae-1565-4121-a043-66848df4b408",
+      "data": [
+        {
+          "text": "jobs for  ELECTRONICS \u0026 COMMUNICATION ENGINEERING"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "89698033-68a0-40d0-ba3a-28af79f1e870",
+      "data": [
+        {
+          "text": "jobs for ece"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3115637f-536b-4773-9c74-4428aadeadeb",
+      "data": [
+        {
+          "text": " ELECTRONICS \u0026 COMMUNICATION ENGINEERING department jobs"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "58ba7c03-41ca-4f99-9298-29e9d60b4a08",
+      "data": [
+        {
+          "text": " ELECTRONICS \u0026 COMMUNICATION jobs"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c719f5c1-9c7f-4e0e-9fcf-1231af9b0be3",
+      "data": [
+        {
+          "text": " ELECTRONICS \u0026 COMMUNICATION ENGINEERING jobs"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2cc42f93-0072-43f5-a147-2d80d6b6780a",
+      "data": [
+        {
+          "text": "ece jobs"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "253e7ca4-fcbc-4b8c-8d94-b4d65591cb49",
+  "name": "ece jobs",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "telegram",
+          "title": "",
+          "subtitle": "",
+          "imageUrl": "http://buddymantra.in/wp-content/uploads/2017/03/Jobs-for-ECE-Students.jpg",
+          "buttons": []
+        },
+        {
+          "type": 2,
+          "platform": "telegram",
+          "title": "you may like",
+          "replies": [
+            "ece hod",
+            "ece staff",
+            "ece labs",
+            "ece placements"
+          ]
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "imageUrl": "http://buddymantra.in/wp-content/uploads/2017/03/Jobs-for-ECE-Students.jpg"
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "speech": "Major Industries which offer Jobs for ECE engineers are\n\nElectronics Circuit Design\nSignal processing\nWireless Communication\nOptical Communication\nRobotics\nEmbedded Systems\nAnalog electronics\nDigital electronics\nTelecommunications"
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "title": "you  may like",
+          "replies": [
+            "ece hod",
+            "ece staff",
+            "ece labs",
+            "ece placements"
+          ]
+        },
+        {
+          "type": 0,
+          "speech": "Major Industries which offer Jobs for ECE engineers are\n\nElectronics Circuit Design\nSignal processing\nWireless Communication\nOptical Communication\nRobotics\nEmbedded Systems\nAnalog electronics\nDigital electronics\nTelecommunications"
+        }
+      ],
+      "defaultResponsePlatforms": {}
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

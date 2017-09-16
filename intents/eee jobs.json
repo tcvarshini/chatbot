@@ -1,0 +1,243 @@
+{
+  "userSays": [
+    {
+      "id": "74dd37df-5b3b-40f1-bed4-89b44acd971c",
+      "data": [
+        {
+          "text": "jobs for eee graduates"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "efe314bf-c0fd-4c2d-9e0f-0e2ac22fd651",
+      "data": [
+        {
+          "text": "jobs in electrical dept"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "092f68e3-7d15-4654-bf22-11c2c22b5eaa",
+      "data": [
+        {
+          "text": "jobs in electrical"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "dc8f44eb-170f-44f2-b962-6bf2a2ce7b4b",
+      "data": [
+        {
+          "text": "eee jobs"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7e7b6313-eece-41a4-90ff-b0fa3a29fe56",
+      "data": [
+        {
+          "text": "jobs eee"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9f9a1039-d92d-4e42-97d3-6e7f38994df9",
+      "data": [
+        {
+          "text": "jobs of eee"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "fe9d2d0b-6343-4168-b8e0-2df06e05daf8",
+      "data": [
+        {
+          "text": "jobs for eee"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "acc028d8-bff3-410d-88e9-9370ba239c6a",
+      "data": [
+        {
+          "text": "Electrical and Electronics Engineering department career"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c12d401e-2bd3-4e34-b566-303c6a97b318",
+      "data": [
+        {
+          "text": "career for Electrical and Electronics Engineering department"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "13632067-5f13-420f-9644-1df84438cfb6",
+      "data": [
+        {
+          "text": "jobs for Electrical and Electronics Engineering department"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b8e47da2-27fe-4a64-9c26-f9c9d8667c9b",
+      "data": [
+        {
+          "text": "Electrical and Electronics Engineering department jobs"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f5ff706a-c39d-4dc6-a476-13d0f527b47c",
+      "data": [
+        {
+          "text": "Electrical and Electronics Engineering career"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e9c38f3a-6f23-4b19-949b-92571529a52e",
+      "data": [
+        {
+          "text": "career for Electrical and Electronics Engineering"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "63041de7-df96-4353-86eb-2da396916cf8",
+      "data": [
+        {
+          "text": "jobs for Electrical and Electronics Engineering"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "858e171a-1347-464d-a9be-c3fc2c797082",
+      "data": [
+        {
+          "text": "Electrical and Electronics Engineering jobs"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ff323308-cf33-4771-9295-583a3a38f758",
+      "data": [
+        {
+          "text": "career in eee"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8266d0f9-918c-4571-870e-7c36185a4f55",
+      "data": [
+        {
+          "text": "career for eee"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "7977c87f-122a-4c1c-a378-a722714e2946",
+  "name": "eee jobs",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "telegram",
+          "title": "",
+          "subtitle": "",
+          "imageUrl": "http://images.wisegeek.com/electrician-wiring-machine.jpg",
+          "buttons": []
+        },
+        {
+          "type": 2,
+          "platform": "telegram",
+          "title": "You May Like",
+          "replies": [
+            "eee hod",
+            "eee staff",
+            "eee labs",
+            "eee placements"
+          ]
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "imageUrl": "http://images.wisegeek.com/electrician-wiring-machine.jpg"
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "speech": "The job profiles in the field of electrical and electronics engineering are::\n      Control and instrumentation engineer\nElectrical engineer\nBroadcast engineer\nManufacturing systems engineer\nSystems analyst\nElectronics engineer\nIT consultant\nSystems developer\nNetwork engineer"
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "title": "you may like::",
+          "replies": [
+            "eee hod",
+            "eee staff",
+            "eee labs",
+            "eee placements"
+          ]
+        },
+        {
+          "type": 0,
+          "speech": [
+            "Every student in summer should undergo internship training in various power plants like Reliance, GMR, GVK, VTPS, and also in Bommuru Power Grid Station. Electrical engineers are involved in channeling energy and electrical current to use for humanity such as heating, lighting, home appliances, transportation, and communication. Studying EEE will lead to potential careers in the areas of R\u0026D, Power Generation, Transmission \u0026 Distribution Sectors\nIn India, a fresher who has a degree in Electrical \u0026 Electronics Engineering can get the offer of salary started from 2.5 lakh per annum upto 5 lakh per annum.",
+            "jobs for EEE:\nControl and instrumentation engineer\nElectrical engineer\nBroadcast engineer\nManufacturing systems engineer\nSystems analyst\nElectronics engineer\nIT consultant\nSystems developer\nNetwork engineer."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": false,
+        "telegram": true
+      }
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

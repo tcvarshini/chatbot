@@ -1,0 +1,140 @@
+{
+  "userSays": [
+    {
+      "id": "83beae90-b07d-49ec-9a8d-896eee84c2e3",
+      "data": [
+        {
+          "text": "principal of college"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "181a68fa-e88a-407d-a337-45e61785594a",
+      "data": [
+        {
+          "text": "nsrit principal"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "27f52c93-cb98-4b8c-ba8e-8d6b48428fa1",
+      "data": [
+        {
+          "text": "college principal"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ce62c40f-fc91-4db4-92e8-205f0026b3a7",
+      "data": [
+        {
+          "text": "clg principal"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2da55fa9-b4c4-44eb-ac6c-340ac7162c74",
+      "data": [
+        {
+          "text": "clg princi"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "48c2518c-6a26-42fe-97a6-4e2f116d4e36",
+      "data": [
+        {
+          "text": "what\u0027s the name of your principal"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "859c66c2-e1fc-4bc5-b0c9-8df048ef8579",
+      "data": [
+        {
+          "text": "may i know your principal name"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d4195b7c-0be3-46e2-b324-5f0fa8a72f84",
+      "data": [
+        {
+          "text": "can i know your principal name"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e454cb18-35ce-4116-becb-c3314c58115a",
+      "data": [
+        {
+          "text": "tell me your principal name"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f3713bf7-5874-4a14-881b-9276486604de",
+      "data": [
+        {
+          "text": "who is your college principal"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    }
+  ],
+  "id": "37cc30e4-6b6f-42f6-bbe4-73acd7c4b5a8",
+  "name": "principal",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 3,
+          "platform": "telegram",
+          "imageUrl": "https://scontent-sit4-1.xx.fbcdn.net/v/t1.0-9/13669105_1049106468512535_1481928528460077465_n.jpg?oh\u003d0d7fc5296fd80329140fbe436005cf9d\u0026oe\u003d59C8A218"
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "imageUrl": "https://scontent-sit4-1.xx.fbcdn.net/v/t1.0-9/13669105_1049106468512535_1481928528460077465_n.jpg?oh\u003d0d7fc5296fd80329140fbe436005cf9d\u0026oe\u003d59C8A218"
+        },
+        {
+          "type": 0,
+          "speech": "Dr.B.V.R.Ravi Kumar\nPhD\nDesignation :Professor \u0026 Principal\nExperience :18 Years\n\nTo know more about him : \nvisit : http://nsrit.edu.in/admin/img/pdf/bvr.pdf"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true,
+        "telegram": true
+      }
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

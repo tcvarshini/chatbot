@@ -1,0 +1,80 @@
+{
+  "userSays": [
+    {
+      "id": "f5f5a577-ff37-466b-a8f4-371cfd31b581",
+      "data": [
+        {
+          "text": "trips"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d1570efb-3042-4c96-bb17-24d41f104e3e",
+      "data": [
+        {
+          "text": "outings"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d3b2c099-7bee-43f3-bd17-3a8b0cd2f452",
+      "data": [
+        {
+          "text": "tours"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9a84e01d-56f0-4343-a1b4-c3d65e46d2d5",
+      "data": [
+        {
+          "text": "industrial vists"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "a7cfba75-3473-48bb-b15b-07189674ca4e",
+  "name": "industrial vists",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 3,
+          "platform": "facebook",
+          "imageUrl": "https://scontent-sit4-1.xx.fbcdn.net/v/t1.0-9/12790978_959102514179598_598730370274510535_n.jpg?oh\u003ded16dc602fc1f93452d1dc5d8f96bc77\u0026oe\u003d59CAC472"
+        },
+        {
+          "type": 3,
+          "platform": "telegram",
+          "imageUrl": "https://scontent-sit4-1.xx.fbcdn.net/v/t1.0-9/12790978_959102514179598_598730370274510535_n.jpg?oh\u003ded16dc602fc1f93452d1dc5d8f96bc77\u0026oe\u003d59CAC472"
+        },
+        {
+          "type": 0,
+          "speech": "Naval Science \u0026 Technological Laboratory(NSTL)\nVizag Steel Plant"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true,
+        "telegram": true
+      }
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,179 @@
+{
+  "userSays": [
+    {
+      "id": "19f88485-c3ee-4098-bb3a-041eec061e60",
+      "data": [
+        {
+          "text": "electronic labs"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "04cb3d96-65ce-4559-b234-be8326f5da83",
+      "data": [
+        {
+          "text": "ece labs"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0f7d34d1-4ee4-4722-9dea-5c4baab11a46",
+      "data": [
+        {
+          "text": "electronics and comm laboratories"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9612f18d-23b5-42e2-a589-2aa5194f6d62",
+      "data": [
+        {
+          "text": "electronics and comm labs"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2b8a4994-22fe-4af2-9371-30f1c936ea32",
+      "data": [
+        {
+          "text": "electronics and comm. labs"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "605eefe4-45f3-4a28-b695-014d6c2a2e5d",
+      "data": [
+        {
+          "text": "electronics labs"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "98320414-21dd-419a-92df-f86144cea755",
+      "data": [
+        {
+          "text": "ece lab"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c0564bcc-483c-4cb4-86a6-e016bc4e240c",
+      "data": [
+        {
+          "text": "ece laboratories"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "fc76d122-e640-4bc3-949c-3726861380eb",
+      "data": [
+        {
+          "text": "ELECTRONICS \u0026 COMMUNICATION ENGINEERING department labs"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e53d285b-727b-4916-b0e1-1d56cd855ea1",
+      "data": [
+        {
+          "text": "ELECTRONICS \u0026 COMMUNICATION labs"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e5c7c5c1-6c57-4647-908a-e39bd0ee06f0",
+      "data": [
+        {
+          "text": "ELECTRONICS \u0026 COMMUNICATION ENGINEERING labs"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    }
+  ],
+  "id": "ab4f93ae-d3b5-4be9-bc1e-842e181e6f5e",
+  "name": "ece labs",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "telegram",
+          "title": "",
+          "subtitle": "",
+          "imageUrl": "http://vbithyd.ac.in/wp-content/uploads/2016/05/745A1239.jpg",
+          "buttons": []
+        },
+        {
+          "type": 2,
+          "platform": "telegram",
+          "title": "you may like",
+          "replies": [
+            "ece hod",
+            "ece staff",
+            "ece  jobs",
+            "ece placements"
+          ]
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "imageUrl": "http://vbithyd.ac.in/wp-content/uploads/2016/05/745A1239.jpg"
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "speech": "The Department has the following Laboratories equipped with all the latest techniques and instruments\n\nControl Systems Laboratory\nMicrowave Laboratory\nAdvanced Microwave Laboratory\nSolid State Devices Laboratory\nSponsored Project Laboratory\nVLSI Design Laboratory\nMicroelectronics Laboratory\nCommunication Systems Laboratory\nSignal Processing Laboratory"
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "title": "You may like",
+          "replies": [
+            "ece  hod",
+            "ece staff",
+            "ece jobs",
+            "ece placements"
+          ]
+        },
+        {
+          "type": 0,
+          "speech": "The Department has the following Laboratories equipped with all the latest techniques and instruments:\n\nElectronic Device And Circuits Lab (EDC Lab)\nElectronic Circuit Analysis Lab (ECA Lab)\nAnalog Communications Lab (AC Lab)\nPulse \u0026 Digital Circuits Lab (PDC Lab)\nLIC Applications Lab (LICA Lab)\nDigital Systems Design \u0026 DICA Lab (DSD-DICA Lab)\nDigital Communications Lab (DC Lab)\nMicroprocessors \u0026 Microcontrollers Lab (MP\u0026MC Lab)\nDigital Signal Processing Lab (DSP Lab)\nVery Large Scale Integrated Circuits Lab (VLSI Lab)\nMicrowave \u0026 Optical Communication Lab  (MW \u0026 OC Lab)"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      }
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

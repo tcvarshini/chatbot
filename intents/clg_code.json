@@ -1,0 +1,164 @@
+{
+  "userSays": [
+    {
+      "id": "00b3c88d-97fd-48de-a18a-e845af0a2aff",
+      "data": [
+        {
+          "text": "eamcet code"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5e0e1e18-d49b-4fcd-8a5e-2779f89fbbb5",
+      "data": [
+        {
+          "text": "college code"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "35f824d9-fc81-4ab0-83ab-9c249b3ea2bb",
+      "data": [
+        {
+          "text": "nsrit college code"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d1ac69e1-727f-4434-8872-1552e1bf7fe7",
+      "data": [
+        {
+          "text": "nsrit eamcet\b code"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "bcdacb26-bb54-401f-91d4-7d16069f8022",
+      "data": [
+        {
+          "text": "nsrit counselling code"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "90de4d15-6869-4167-8913-1ab36f6d8812",
+      "data": [
+        {
+          "text": "counselling code"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1c566072-c031-4dd4-842c-d5c5cb279ba6",
+      "data": [
+        {
+          "text": "nsrit code"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "7ea58503-bdaf-4c67-924a-898c079c5d6c",
+      "data": [
+        {
+          "text": "clg code"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0fc88f67-c338-4bb0-a3ce-4ac2ba8e0b5b",
+      "data": [
+        {
+          "text": "can i know your college code"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2d092c32-984d-4fc4-940b-9e6d79e6c57b",
+      "data": [
+        {
+          "text": "let me know your college code"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "44d7e7b2-83fe-44c5-8512-a1743efc0f69",
+      "data": [
+        {
+          "text": "what is  your college code"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e49b24b2-73fb-42b4-9591-c1d70ab647aa",
+      "data": [
+        {
+          "text": "what\u0027s your college eamcet code"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3b159703-31fc-4c38-8780-f4d57ce0b35d",
+      "data": [
+        {
+          "text": "what is your college eamcet code"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "3b27a7d2-c46e-494c-836d-ba2864bf3b36",
+  "name": "clg_code",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "Counseling Code : NSRT",
+            "NSRT"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true,
+        "telegram": true
+      }
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

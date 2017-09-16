@@ -1,0 +1,274 @@
+{
+  "userSays": [
+    {
+      "id": "55dfa299-c001-4eeb-9b6c-3f3b540ebb85",
+      "data": [
+        {
+          "text": "ece in this clg"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "a4f806f9-0263-4962-b87c-6d6c2166aa06",
+      "data": [
+        {
+          "text": "ece department in this clg"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8737a756-5672-4931-aff7-dad686c64e59",
+      "data": [
+        {
+          "text": "ece in this college"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8248ca49-799e-4496-892f-6c73e3a9f1dd",
+      "data": [
+        {
+          "text": "ece students"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a24d3732-206a-409f-affb-4cfc5b88adf4",
+      "data": [
+        {
+          "text": "does the college take ece people"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5e538b74-25a9-4c3e-8979-d3beba9f9253",
+      "data": [
+        {
+          "text": "does the clg take in ece students"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "62a88a67-b26b-4a5a-9f16-4d4daf896032",
+      "data": [
+        {
+          "text": "does the clg take in ece graduates"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2fd29253-74b2-4715-8ea2-4304bc6819dd",
+      "data": [
+        {
+          "text": "e.c.e"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c1d30c09-3c15-4d6b-88e1-2632fd673c24",
+      "data": [
+        {
+          "text": "e c e"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "20af125a-ab74-40d4-82e7-d80fce616ddb",
+      "data": [
+        {
+          "text": "ece"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a27fbd03-2cee-409b-b9d2-85da4a72b42b",
+      "data": [
+        {
+          "text": "ece department of engineering"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "73eb65c6-9617-4e60-aed5-c573f5d13a45",
+      "data": [
+        {
+          "text": "ece dep"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4a17947e-75e6-49c8-9731-9b3967ece467",
+      "data": [
+        {
+          "text": "ece branch"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b0b23d1d-5eb4-4ef4-8d0e-09733dcccd5a",
+      "data": [
+        {
+          "text": "electronics and communication and engineering"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3baf74ec-4afb-4276-9aa1-993042a9784d",
+      "data": [
+        {
+          "text": "dept of ece"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6ef773ca-a4eb-41cc-9af9-bb894c1b6d96",
+      "data": [
+        {
+          "text": "ece department"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "4ef320da-64a7-4253-95d9-27663c48d199",
+      "data": [
+        {
+          "text": "ece dept"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "306eec31-4407-4fcc-8c0f-358f1ff43ff1",
+      "data": [
+        {
+          "text": "electronics  and communication   department"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "17b01933-d38d-4e31-af4a-287600094fb0",
+      "data": [
+        {
+          "text": "electronics  and communication   engineering"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ff03cb76-768e-4656-8a9c-7402c9633d1d",
+      "data": [
+        {
+          "text": "electronics  and communication"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    }
+  ],
+  "id": "9a733d86-1fdc-40d8-a55d-d21cedd1b24f",
+  "name": "ece",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "telegram",
+          "title": "",
+          "subtitle": "",
+          "imageUrl": "http://camelliait.ac.in/WEB%20PAGE%20ECE/images/templatemo_image_01.jpg",
+          "buttons": []
+        },
+        {
+          "type": 2,
+          "platform": "telegram",
+          "title": "You may like",
+          "replies": [
+            "ece hod",
+            "ece staff",
+            "ece labs",
+            "ece jobs",
+            "ece placements"
+          ]
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "imageUrl": "http://camelliait.ac.in/WEB%20PAGE%20ECE/images/templatemo_image_01.jpg"
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "speech": "The field of science and technology are changing rapidly which gives tremendous opportunity for the human creation to have a beautiful life. We are witnessing wonders in communication field with technologies like CDMA, GSM, 3G and Internet etc.\n\nNo.of Seats :120"
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "title": "you may like",
+          "replies": [
+            "ece hod",
+            "ece staff",
+            "ece labs",
+            "ece jobs",
+            "ece placements"
+          ]
+        },
+        {
+          "type": 0,
+          "speech": [
+            "No.of Seats  :120\nNo.of faculty: 16\nNo.of Labs:4",
+            "To bring out competent young Electronics \u0026 Communication Engineers by achieving excellence in imparting technical skills , soft skills and the right attitude for continuous learning."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      }
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

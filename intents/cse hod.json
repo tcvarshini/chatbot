@@ -1,0 +1,132 @@
+{
+  "userSays": [
+    {
+      "id": "2b2aedf1-2600-44f8-b904-3e1ff6eec6fd",
+      "data": [
+        {
+          "text": "information about cse hod"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "42340bfc-0201-4b0d-8e7e-51e6670ea4ad",
+      "data": [
+        {
+          "text": "hod of cse"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "30efaeb8-ec90-4a82-890d-03ace27e97ec",
+      "data": [
+        {
+          "text": "tell me about cse hod"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "69a2933a-a260-4451-8f65-ef31771bd3aa",
+      "data": [
+        {
+          "text": "hod for cse"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "d81de473-a275-4e68-b435-54762d4958f6",
+      "data": [
+        {
+          "text": "computer science engineering hod"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "19ba6ea3-4705-4915-88b3-995247726a2c",
+      "data": [
+        {
+          "text": "head of department cse"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5cfbd71c-16d3-4f96-aeb6-a16819dda81b",
+      "data": [
+        {
+          "text": "computer science dept hod"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "31b865db-9af6-4d9e-8a60-1ac10abc9e06",
+      "data": [
+        {
+          "text": "cse hod"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "dbc83de9-9feb-4222-82f9-d3cb656d9991",
+  "name": "cse hod",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "telegram",
+          "title": "you may like",
+          "replies": [
+            "cse staff",
+            "cse labs",
+            "cse jobs",
+            "cse placements"
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "title": "you may like",
+          "replies": [
+            "cse staff",
+            "cse labs",
+            "cse jobs",
+            "cse palcements"
+          ]
+        },
+        {
+          "type": 0,
+          "speech": "Sri G.Rajasekharam\nM.Tech (PhD)\nDesignation :Assoc Professor, HOD \u0026 Vice Principal\nExperience :13 Years"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true,
+        "telegram": true
+      }
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

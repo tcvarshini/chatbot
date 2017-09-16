@@ -1,0 +1,159 @@
+{
+  "userSays": [
+    {
+      "id": "28d676c6-5dee-42be-a0cb-1e610c4a71cc",
+      "data": [
+        {
+          "text": "jobs for cse"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d6de90d5-0517-4002-a113-84d260b383bc",
+      "data": [
+        {
+          "text": "what kind of jobs are there for cse"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ba291ea7-4baa-483b-be2e-1ea9cc6f9044",
+      "data": [
+        {
+          "text": "tell me about cse jobs"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "202e9f77-8ea3-4a23-b952-02aa5dfbc7e2",
+      "data": [
+        {
+          "text": "jobs for COMPUTER SCIENCE \u0026 ENGINEERING   department"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f9a862f0-ad3c-4da6-8ffd-668bc1113afd",
+      "data": [
+        {
+          "text": "jobs for COMPUTER SCIENCE \u0026 ENGINEERING"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "557447ed-8c85-41c6-a612-215f449202e2",
+      "data": [
+        {
+          "text": "COMPUTER SCIENCE \u0026 ENGINEERING  department jobs"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a7096639-c665-4c8d-85e4-a25d939e69dd",
+      "data": [
+        {
+          "text": "COMPUTER SCIENCE jobs"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "262d7ac0-be41-4dc1-856e-aede0ca42107",
+      "data": [
+        {
+          "text": "COMPUTER SCIENCE \u0026 ENGINEERING jobs"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e29c1e4d-834d-4850-a9a1-cbf99293b512",
+      "data": [
+        {
+          "text": "cse jobs"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "b0f78226-12d5-49ff-afcb-d4eb2ef0fdfe",
+  "name": "cse jobs",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "telegram",
+          "title": "Jobs for CSE",
+          "subtitle": "Software applications developer. Computer systems analyst Computer systems engineer, Network systems administrator. Database administrator.  Business intelligence analyst.  Web developer. ... Computer programmer. etc",
+          "imageUrl": "http://www.ecs.soton.ac.uk/sites/www.ecs.soton.ac.uk/files/ECS-L3-lab-programming-image-with-text-470x320.png",
+          "buttons": []
+        },
+        {
+          "type": 2,
+          "platform": "telegram",
+          "title": "you may like",
+          "replies": [
+            "cse hod",
+            "cse staff",
+            "cse labs",
+            "cse placements"
+          ]
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "imageUrl": "http://www.ecs.soton.ac.uk/sites/www.ecs.soton.ac.uk/files/ECS-L3-lab-programming-image-with-text-470x320.png"
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "speech": "Jobs for cse:\nSoftware applications developer.\nComputer systems analyst\nComputer systems engineer,\nNetwork systems administrator.\nDatabase administrator. \nBusiness intelligence analyst. \nWeb developer. ...\nComputer programmer. etc"
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "title": "you may like",
+          "replies": [
+            "cse hod",
+            "cse staff",
+            "cse labs",
+            "cse placements"
+          ]
+        },
+        {
+          "type": 0,
+          "speech": "Software applications developer.\nComputer systems analyst\nComputer systems engineer,\nNetwork systems administrator.\nDatabase administrator. \nBusiness Intelligence Analyst. \nWeb Developer\nComputer programmer. etc"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      }
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

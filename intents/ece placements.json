@@ -1,0 +1,199 @@
+{
+  "userSays": [
+    {
+      "id": "22f01d79-69e9-4ca5-a330-0e62d6fc650c",
+      "data": [
+        {
+          "text": "ece placement"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "41967954-c7c8-4be0-aae8-74cf9a294dfb",
+      "data": [
+        {
+          "text": "ece placements"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2b5bd30b-3e1d-4f4d-9656-c0d02b66fe47",
+      "data": [
+        {
+          "text": "placements of electronics"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f4c2e436-4586-404a-b767-edb9e139b36b",
+      "data": [
+        {
+          "text": "placements for electonics"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "bc573a61-229e-4b0d-a7be-722ab485b710",
+      "data": [
+        {
+          "text": "placements ece"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4b67beb0-f048-4b42-8bbb-c783fc9d786b",
+      "data": [
+        {
+          "text": "placement ece"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "93347e8f-dd97-4737-adbf-57f66b30baae",
+      "data": [
+        {
+          "text": "placements of ece"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b73c8561-42f2-4866-aefd-0b3981e03f0f",
+      "data": [
+        {
+          "text": "placement of ece"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c4bfe09a-1f48-4731-906e-9f2081cde4d3",
+      "data": [
+        {
+          "text": "placements for ELECTRONICS \u0026 COMMUNICATION ENGINEERING department"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4aae148c-9cfc-4c04-a6f0-d157afcb223c",
+      "data": [
+        {
+          "text": "placements for  ELECTRONICS \u0026 COMMUNICATION ENGINEERING"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "72e8433d-c8e0-422d-aaad-06064997a3a0",
+      "data": [
+        {
+          "text": "ELECTRONICS \u0026 COMMUNICATION ENGINEERING department placement"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "633d990d-c018-4f74-999e-1790481bc516",
+      "data": [
+        {
+          "text": "ELECTRONICS \u0026 COMMUNICATION ENGINEERING placements"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "af19d0ab-e209-42fa-acb5-783969224a1b",
+      "data": [
+        {
+          "text": "placements for ece"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    }
+  ],
+  "id": "a929182a-0934-4a79-a2cd-77aed958fa08",
+  "name": "ece placements",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "telegram",
+          "title": "",
+          "subtitle": "",
+          "imageUrl": "http://uvcebangalore.ac.in/wp-content/uploads/2014/05/placement_logo.jpg",
+          "buttons": []
+        },
+        {
+          "type": 2,
+          "platform": "telegram",
+          "title": "You May Like",
+          "replies": [
+            "ece hod",
+            "ece staff",
+            "ece labs",
+            "ece jobs"
+          ]
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "imageUrl": "http://uvcebangalore.ac.in/wp-content/uploads/2014/05/placement_logo.jpg"
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "speech": "TOP Companies which offer JOBS for ECE engineers are::\nTexas Instruments.\nIntel.\nAMD.\nCISCO.\nIBM.\nSamsung Electronics.\nSony.\nToshiba."
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "title": "You may like",
+          "replies": [
+            "ece hod",
+            "ece staff",
+            "ece labs",
+            "ece jobs"
+          ]
+        },
+        {
+          "type": 0,
+          "speech": "The department is organizing internship program for the students in every summer with the coordination of eminent industries like Andhra Electronics, Efftronics, Steel Plant etc. The students can build a career in mobile / wireless communication networks / embedded systems / VLSI and communication devices development. Students can also find opportunities in IT sector.\nNo.of students Placed:222"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      }
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

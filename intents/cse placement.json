@@ -1,0 +1,136 @@
+{
+  "userSays": [
+    {
+      "id": "65a80cd3-e110-42b6-977b-69a9962b2c0e",
+      "data": [
+        {
+          "text": "cse campus selections"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "41eed88f-2b0a-41a6-a406-85d8b4bdeb46",
+      "data": [
+        {
+          "text": "cse campus"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "de2d07f9-dd23-4dd6-ba07-30e4c420e3f6",
+      "data": [
+        {
+          "text": "what are the placements for cse"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8054a750-2830-47b4-9d91-037685dea1aa",
+      "data": [
+        {
+          "text": "COMPUTER SCIENCE placement"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "236b4055-4a11-422f-91ef-809df20db57f",
+      "data": [
+        {
+          "text": "COMPUTER SCIENCE \u0026 ENGINEERING placements"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "54e2e978-400b-41ce-9da4-546b594b14f9",
+      "data": [
+        {
+          "text": "cse placement"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "28958cd2-bf22-4aa2-b1c7-23495ceefb5f",
+  "name": "cse placement",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "telegram",
+          "title": "",
+          "subtitle": "",
+          "imageUrl": "https://userscontent2.emaze.com/images/60d47489-7dc4-444a-8928-0e150025014d/8b9c3fb34e54e15b09450d512384415e.jpg",
+          "buttons": []
+        },
+        {
+          "type": 0,
+          "platform": "telegram",
+          "speech": "Companies Visiting our campus:\nTata Consultancy Services\nWIPRO\nInfosys\nHCL Technologies etc."
+        },
+        {
+          "type": 2,
+          "platform": "telegram",
+          "title": "You may like",
+          "replies": [
+            "cse hod",
+            "cse staff",
+            "cse labs",
+            "cse jobs"
+          ]
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "imageUrl": "https://userscontent2.emaze.com/images/60d47489-7dc4-444a-8928-0e150025014d/8b9c3fb34e54e15b09450d512384415e.jpg"
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "speech": "Companies visiting  our Campus:\nTata Consultancy Services ,\nWIPRO,\nInfosys,\nHCL Technologies etc...\nNo.of Students Selected:220"
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "title": "you may like",
+          "replies": [
+            "cse hod",
+            "cse staff",
+            "cse labs",
+            "cse jobs"
+          ]
+        },
+        {
+          "type": 0,
+          "speech": "Companies Visiting our campus:\nTata Consultancy Services\nWIPRO\nInfosys\nHCL Technologies etc."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": false,
+        "facebook": false,
+        "skype": true
+      }
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,150 @@
+{
+  "userSays": [
+    {
+      "id": "fd2872f7-1425-44a4-a4c8-6e686c4225ac",
+      "data": [
+        {
+          "text": "civil dept hod"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a9d4f32f-a34c-4988-9ac3-87436e1c5e0d",
+      "data": [
+        {
+          "text": "head of civil"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3a7659a1-62bd-4364-9ed9-816fc3d6cbf7",
+      "data": [
+        {
+          "text": "head of department civil"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "bccd1feb-bc9f-435d-93ad-5e59daebe460",
+      "data": [
+        {
+          "text": "head of dept civil"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "13bedba0-1a10-46d7-be0d-9aab07212882",
+      "data": [
+        {
+          "text": "hod civil"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "eddc9eb9-c1ce-4c8a-a67a-55d806b5408c",
+      "data": [
+        {
+          "text": "hod of civil"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e4a74547-0a76-43e3-ba0e-1c7e58be69b7",
+      "data": [
+        {
+          "text": "details of civil hod"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "746cbaf9-821a-4965-a1bd-bfe05e8b0ba8",
+      "data": [
+        {
+          "text": "who is hod of civil"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "bf8fdc1c-0c77-4efe-96a6-b2b68b1ccdf7",
+      "data": [
+        {
+          "text": "civil hod name"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "36bced36-b018-4eb6-9d1e-f4823edcc17e",
+      "data": [
+        {
+          "text": "civil hod"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "6115f224-a5b2-429a-b73d-7ca9b2f08796",
+  "name": "civil hod",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "telegram",
+          "title": "you may like...",
+          "replies": [
+            "civil staff",
+            "civil labs",
+            "civil placements"
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "title": "you may like...",
+          "replies": [
+            "civil staff",
+            "civil labs",
+            "civil placements"
+          ]
+        },
+        {
+          "type": 0,
+          "speech": "Mr A.Matha Prasad\nM.Tech (PhD)\nDesignation :Asst Prof \u0026 HOD\nExperience :4 Years"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true,
+        "telegram": true
+      }
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

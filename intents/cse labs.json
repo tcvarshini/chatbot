@@ -1,0 +1,182 @@
+{
+  "userSays": [
+    {
+      "id": "254773a2-44b3-40d0-ab07-a7fbb9319731",
+      "data": [
+        {
+          "text": "how many labs for cselist of labs in cse"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d0328b0d-7b54-4963-afe0-dfde64a1afd6",
+      "data": [
+        {
+          "text": "how many labs for cse"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0e0e0812-0420-4a57-b455-0c6bf6cc28d2",
+      "data": [
+        {
+          "text": "practical sessions for cse"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "412b5312-2ec9-495f-807c-2c5a9bdfadf1",
+      "data": [
+        {
+          "text": "labs for cse students"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "52736001-6296-4b53-87df-675f2eb84584",
+      "data": [
+        {
+          "text": "COMPUTER SCIENCE  laboratory"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "98d41f17-5835-4704-9c31-0063e75e6cd2",
+      "data": [
+        {
+          "text": "COMPUTER SCIENCE  labs"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "de30180a-8435-4d1b-8f66-1e3bd48d1b5b",
+      "data": [
+        {
+          "text": "COMPUTER SCIENCE \u0026 ENGINEERING department"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "72bc29ee-c455-4764-92f0-fed1bb0a476d",
+      "data": [
+        {
+          "text": "COMPUTER SCIENCE \u0026 ENGINEERING laboratory"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "02136191-dc00-4aba-8bc7-7f00658d6a50",
+      "data": [
+        {
+          "text": "COMPUTER SCIENCE \u0026 ENGINEERING labs"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "97638706-7b16-401a-b33e-2b6bf431f05b",
+      "data": [
+        {
+          "text": "cse labarotary"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e6af1d8e-64c5-436f-a7bc-1cc7ac3dfd2e",
+      "data": [
+        {
+          "text": "cse labs"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "21bc60ce-eb2c-4036-8134-80e935f6ed1a",
+  "name": "cse labs",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "telegram",
+          "title": "",
+          "subtitle": "",
+          "imageUrl": "http://nsrit.edu.in/admin/img/cms/computerlab.png",
+          "buttons": []
+        },
+        {
+          "type": 0,
+          "platform": "telegram",
+          "speech": "About CSE Labs:\nThe department provides extensive computing resources for research and education. These systems are in the range of Linux, Windows and Windows terminals and a good number of laptops. All the laboratories are well networked with Internet facilities.\nNo.of Labs:3"
+        },
+        {
+          "type": 2,
+          "platform": "telegram",
+          "title": "you may like",
+          "replies": [
+            "cse hod",
+            "cse staff",
+            "cse jobs",
+            "cse placements"
+          ]
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "imageUrl": "http://nsrit.edu.in/admin/img/cms/computerlab.png"
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "speech": "About CSE Labs:\nThe department provides extensive computing resources for research and education. These systems are in the range of Linux, Windows and Windows terminals and a good number of laptops. All the laboratories are well networked with Internet facilities.\nNo.of Labs:3"
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "title": "You may like",
+          "replies": [
+            "cse hod",
+            "cse staff",
+            "cse jobs",
+            "cse placements"
+          ]
+        },
+        {
+          "type": 0,
+          "speech": "The department provides extensive computing resources for research and education. These systems are in the range of Linux, Windows and Windows terminals. All the laboratories are well networked with Internet facilities.\nTo know more : http://nsrit.edu.in/dept_labs.php?d_id\u003d5"
+        }
+      ],
+      "defaultResponsePlatforms": {}
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

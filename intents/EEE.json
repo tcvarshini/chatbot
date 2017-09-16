@@ -1,0 +1,234 @@
+{
+  "userSays": [
+    {
+      "id": "0c30f9b0-30ad-4c0a-bd53-edce7f636d5a",
+      "data": [
+        {
+          "text": "eee students in this college"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "82a8abf2-3a38-4bd3-bc13-939f80539882",
+      "data": [
+        {
+          "text": "does this college take eee graduates"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0894b169-a06a-4670-a63c-e4143ccee5ff",
+      "data": [
+        {
+          "text": "does this college take eee students"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "88f625b1-33a4-4c55-838d-6349a32947e5",
+      "data": [
+        {
+          "text": "does this clg take eee graduates"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "61bd8aac-d054-4e9b-81f5-fb1224df28bf",
+      "data": [
+        {
+          "text": "does this clg take eee students"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "93ed0e32-dce9-4177-b97c-1c828dac1933",
+      "data": [
+        {
+          "text": "eee branch"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "554a2ca4-7985-4df4-8c37-9441bfd73fed",
+      "data": [
+        {
+          "text": "electrical department of engg"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "703ec331-6605-4959-9e48-884c937e7d28",
+      "data": [
+        {
+          "text": "eee engg"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d5193d72-8f20-45ee-9e67-eefa909b195f",
+      "data": [
+        {
+          "text": "eee engineering"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ad208f7c-9b0e-42f3-91b8-d2c02e631c4f",
+      "data": [
+        {
+          "text": "electrical branch"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d9a05f15-bc4b-4804-af38-becd3a13def3",
+      "data": [
+        {
+          "text": "eee dept"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1856713b-3a0a-4941-a259-03cecbb51a4b",
+      "data": [
+        {
+          "text": "department of Electrical and  electronics"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3b4e1d44-f44f-440c-80b9-0a61774a4f07",
+      "data": [
+        {
+          "text": "Electrical and  electronics  engineering"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "dcdaa9f7-09bd-4e3e-9fe1-47306decd77b",
+      "data": [
+        {
+          "text": "Electrical and  electronics  department"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "be6eddd7-d745-4206-82d4-e5cae546de12",
+      "data": [
+        {
+          "text": "Electrical and  electronics"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e6a41853-7d15-46a3-8a92-e90c96b5e241",
+      "data": [
+        {
+          "text": "EEE"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "a1d8b318-d9c2-4d03-98a2-e7921ba5e646",
+  "name": "EEE",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "telegram",
+          "title": "",
+          "subtitle": "",
+          "imageUrl": "https://5.imimg.com/data5/GF/BI/GLADMIN-16005751/electrical-and-electronics-engineering-500x500.jpg",
+          "buttons": []
+        },
+        {
+          "type": 2,
+          "platform": "telegram",
+          "title": "You May Like::",
+          "replies": [
+            "eee hod",
+            "eee staff",
+            "eee labs",
+            "eee jobs",
+            "eee placments"
+          ]
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "imageUrl": "https://5.imimg.com/data5/GF/BI/GLADMIN-16005751/electrical-and-electronics-engineering-500x500.jpg"
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "speech": "About  ELECTRICAL \u0026 ELECTRONICS ENGINEERING::\nThe Department of Electrical and Electronics Engineering strives to contribute to the state, nation, and world through the education of outstanding professionals and leaders in engineering. Our educational focus is on a broad, rigorous education in all areas of electrical and electronics engineering with significant hands-on experiences. The program will provide students with an understanding of engineering problem solving at all levels and an appreciation for engineering as a profession."
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "title": "You May Like",
+          "replies": [
+            "eee hod",
+            "eee staff",
+            "eee labs",
+            "eee jobs",
+            "eee placements"
+          ]
+        },
+        {
+          "type": 0,
+          "speech": [
+            "No.of Seats  :120\nNo.of faculty: 16\nNo.of Labs:6",
+            "Our vision is to be a premier source of Electrical Engineering talent and research in India. This means our graduates are successful, our research is innovative, and we are the intellectual center for our discipline in the south India region."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      }
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

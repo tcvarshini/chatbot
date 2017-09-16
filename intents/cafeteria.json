@@ -1,0 +1,140 @@
+{
+  "userSays": [
+    {
+      "id": "659af83b-597e-4050-85f7-c72223209969",
+      "data": [
+        {
+          "text": "how the food condition will be"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "753dd5df-07f1-4e02-afc9-9f39082d63ff",
+      "data": [
+        {
+          "text": "canteen"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "d90049ae-f868-4ac6-bd51-3868d367c637",
+      "data": [
+        {
+          "text": "does your college has a canteen?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "59ad3f43-e321-4e01-a0bb-eca392d14ab8",
+      "data": [
+        {
+          "text": "does your college has a cafeteria"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5f64c672-da00-43ea-bd7b-9b183e51e4c7",
+      "data": [
+        {
+          "text": "does your college has a cafeteria?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e55acfa7-c1d5-465b-8ad4-e054a623ec3a",
+      "data": [
+        {
+          "text": "canteen availability"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d35ed86f-e9d8-4c4b-b844-f8a8a6251a87",
+      "data": [
+        {
+          "text": "cafe"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f8c6a07a-3e5d-4718-8396-1ab955427c21",
+      "data": [
+        {
+          "text": "cafe facility"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9fc0dd0c-0e01-4ab4-aac6-fc815faa38c5",
+      "data": [
+        {
+          "text": "food facility"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e11b670d-8fd7-4c9f-a3f3-87e06d80b7e5",
+      "data": [
+        {
+          "text": "snacks"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "2c6d42b1-85f4-4907-b3aa-540b30625aa4",
+  "name": "cafeteria",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 3,
+          "platform": "facebook",
+          "imageUrl": "http://nsrit.edu.in/admin/img/cms/hostel.jpg"
+        },
+        {
+          "type": 3,
+          "platform": "telegram",
+          "imageUrl": "http://nsrit.edu.in/admin/img/cms/hostel.jpg"
+        },
+        {
+          "type": 0,
+          "speech": "South Indian vegetarian and non-vegetarian food, hygienically prepared by trained chefs is served every day to suit all. The Menu is designed taking into consideration the nutritional and calorific requirements of the student. High emphasis is placed on Quality and Quantity. Separate dining facilities are provided for men and women"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true,
+        "telegram": true
+      }
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

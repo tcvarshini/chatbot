@@ -1,0 +1,249 @@
+{
+  "userSays": [
+    {
+      "id": "4301a717-7982-4d72-bb36-ec07755f5f73",
+      "data": [
+        {
+          "text": "electronics faculty"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a6f7d93a-cb8d-4f11-96cb-a79af2be5b43",
+      "data": [
+        {
+          "text": "electronics and comm professors"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ca48bb2c-02c1-4296-b07c-c3d767e933c0",
+      "data": [
+        {
+          "text": "eectronics and comm lecturers"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ea000d85-71b3-4fa8-b687-63a2870278d2",
+      "data": [
+        {
+          "text": "electronics and communication lecturers"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "db3522ce-65ba-4cb9-ae9a-45baaa022356",
+      "data": [
+        {
+          "text": "electronics lecturers"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2485a429-fe6b-4b01-a4d5-8f6eeb0c3a52",
+      "data": [
+        {
+          "text": "ece lecturers"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "eb34e436-d544-43cf-93b8-1ce1fc6fe062",
+      "data": [
+        {
+          "text": "ece teachers"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "23e2aa81-69b8-4cc4-8eb1-369c52fd4604",
+      "data": [
+        {
+          "text": "faculty of ece"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "1c29a505-cf60-415a-8ba6-148a40416f56",
+      "data": [
+        {
+          "text": "ece professors"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "85af4bce-2196-4953-9b0f-b99af3315281",
+      "data": [
+        {
+          "text": "ELECTRONICS \u0026 COMMUNICATION ENGINEERINg faculty"
+        }
+      ],
+      "isTemplate": false,
+      "count": 2
+    },
+    {
+      "id": "1ed19e94-afcc-458a-ad79-519479fcb498",
+      "data": [
+        {
+          "text": "ELECTRONICS \u0026 COMMUNICATION ENGINEERING staff"
+        }
+      ],
+      "isTemplate": true,
+      "count": 0
+    },
+    {
+      "id": "36ee70ca-fa90-43cc-ad3f-931b93862e10",
+      "data": [
+        {
+          "text": "ELECTRONICS \u0026 COMMUNICATION ENGINEERING department staff"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "41e79f86-58a3-4006-96d0-ad2a4e5d3067",
+      "data": [
+        {
+          "text": "ELECTRONICS \u0026 COMMUNICATION ENGINEERING department faculty"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "771b08b0-75f5-4900-b00a-692e77dc9142",
+      "data": [
+        {
+          "text": "faculty for ELECTRONICS \u0026 COMMUNICATION ENGINEERING department"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ff625fbb-bb29-4615-80b3-125c596e4a2c",
+      "data": [
+        {
+          "text": "faculty for ELECTRONICS \u0026 COMMUNICATION ENGINEERING"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9b205c5c-534a-4c82-90d8-44c3b55d24b7",
+      "data": [
+        {
+          "text": "faculty for ece"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "baa6055d-c9f2-4e49-bd5f-5f185770b8f2",
+      "data": [
+        {
+          "text": "staff for ece"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b53d1c4e-0e90-43b5-82ca-3650078f74a4",
+      "data": [
+        {
+          "text": "ece staff"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "ab7d48c2-5258-4d35-8f2e-1692b4e7cd56",
+  "name": "ece staff",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "telegram",
+          "title": "",
+          "subtitle": "",
+          "imageUrl": "http://famt.ac.in/wp-content/uploads/2015/08/MG_9896.jpg",
+          "buttons": []
+        },
+        {
+          "type": 2,
+          "platform": "telegram",
+          "title": "you may like",
+          "replies": [
+            "ece hod",
+            "ece labs",
+            "ece jobs",
+            "ece placements"
+          ]
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "imageUrl": "http://famt.ac.in/wp-content/uploads/2015/08/MG_9896.jpg"
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "speech": "About Faculty:\n\nFaculty members are actively involved in research activities and have many research publications in international \u0026 national journals and international conferences to their credit. Faculty members in the department have undertaken many funded research projects, sponsored by the Government and renowned R and D organizations. The department also offers consultancy and testing services to the industries and R\u0026D organizations in the area of the expertise"
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "title": "you may like",
+          "replies": [
+            "ece hod",
+            "ece labs",
+            "ece jobs",
+            "ece placements"
+          ]
+        },
+        {
+          "type": 0,
+          "speech": "Both the students and faculty actively involve themselves in various research projects.\nTo know more : http://nsrit.edu.in/dept_faculty.php?d_id\u003d4"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      }
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,190 @@
+{
+  "userSays": [
+    {
+      "id": "a2500d32-868a-402c-a1f2-e2babdaa6abf",
+      "data": [
+        {
+          "text": "college"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b393dc9e-a7ac-41fd-9971-36b20cbf5faa",
+      "data": [
+        {
+          "text": "around the college"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "13598de7-91e8-4791-bdfd-0711e1d9b4ca",
+      "data": [
+        {
+          "text": "clg environment"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9187e625-cc3f-4e5b-84df-b8d51fab5557",
+      "data": [
+        {
+          "text": "clg premises"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d0105b9c-beec-4718-ba2f-7aeae370dfe1",
+      "data": [
+        {
+          "text": "college premises"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "99cbdb28-70c7-494c-9bd6-9be5f2de8cb1",
+      "data": [
+        {
+          "text": "college surroundings"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ab7e8a47-8812-4d6c-8559-f74eb8b602cc",
+      "data": [
+        {
+          "text": "clg surroundings"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3f878648-b078-4053-be61-25d2cf4d86fa",
+      "data": [
+        {
+          "text": "environment of college"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8cca4ce5-e62a-4621-8ad2-53fee37a0013",
+      "data": [
+        {
+          "text": "environment of clg"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b6f222f5-8711-4a7f-bb6a-4ca5b01b80c1",
+      "data": [
+        {
+          "text": "environment of college campus"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3293e943-e535-46e6-b505-88c4fa57fe09",
+      "data": [
+        {
+          "text": "environment"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "783f92d2-4da7-4ff9-8844-b3ee31969d33",
+      "data": [
+        {
+          "text": "college campus"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "27d28925-1987-4b67-8989-273f63203971",
+      "data": [
+        {
+          "text": "how is the environment"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "acc224fe-c500-47df-b434-a9b0f5b67d87",
+      "data": [
+        {
+          "text": "how\u0027s the campus"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e2046e90-1785-4c23-afb8-92583f9d0506",
+      "data": [
+        {
+          "text": "how is the clg"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2000f4c9-6923-420d-ae77-92c2029ca95c",
+      "data": [
+        {
+          "text": "how is the college"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "eec8813c-b980-4918-a31b-9876a6fa399d",
+  "name": "campus",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true,
+        "telegram": true
+      }
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

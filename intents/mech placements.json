@@ -1,0 +1,185 @@
+{
+  "userSays": [
+    {
+      "id": "61b5b834-7ae7-4703-b0f5-c66b0c192bd1",
+      "data": [
+        {
+          "text": "mechanical job"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0bb87a8f-089a-4741-89bf-2fa355d90357",
+      "data": [
+        {
+          "text": "mech job"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c4e0e80d-77fd-4c3b-b64f-7af464359f86",
+      "data": [
+        {
+          "text": "jobs mechanical students"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a7ee9734-2e70-48b2-94f9-8c3fde19e041",
+      "data": [
+        {
+          "text": "jobs for mech "
+        },
+        {
+          "text": "guys",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4860261a-dc16-47fd-85b8-e1e9780f3829",
+      "data": [
+        {
+          "text": "jobs for mechanical engineers"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "70131658-8ee6-4568-9bdc-d36b342c12a6",
+      "data": [
+        {
+          "text": "jobs for mech graduates"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9a5f5d3c-8da8-4323-af44-1b999afe3c40",
+      "data": [
+        {
+          "text": "mechanical engineering graduate jobs"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "51e38e3c-97ed-4423-ab35-a65efd7430c8",
+      "data": [
+        {
+          "text": "mechanical engineering jobs"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6081ec1e-0276-424c-bcce-c45366be5453",
+      "data": [
+        {
+          "text": "mechanical graduates jobs"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "18ab5fe1-1621-4341-8b2d-1174875d8e31",
+      "data": [
+        {
+          "text": "mechanical jobs"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "44206de5-f54e-425d-a698-f25705fdf63f",
+      "data": [
+        {
+          "text": "mech jobs"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "35b048e2-63d4-426e-bf8f-93d7524d5fa3",
+      "data": [
+        {
+          "text": "jobs for mechanical students"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "7fbffbde-bf8f-4df5-98cc-a59fa4da186f",
+      "data": [
+        {
+          "text": "mechanical plaements"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "bb8b61af-0c7e-4eac-bfb2-834f963906a4",
+      "data": [
+        {
+          "text": "mech placements"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "b3a22ce1-bd3c-4a26-9da0-02f9ecae6f33",
+  "name": "mech placements",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 3,
+          "platform": "telegram",
+          "imageUrl": "http://www.jnbentley.co.uk/imgs/Careers/Electrical_Engineering.jpg"
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "imageUrl": "http://www.jnbentley.co.uk/imgs/Careers/Electrical_Engineering.jpg"
+        },
+        {
+          "type": 0,
+          "speech": "Ashok Leyland\nBEL\nBHEL\nBioxcel\nCoal India\nHPCL\nL\u0026T Construction\nNHPC"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true,
+        "telegram": true
+      }
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

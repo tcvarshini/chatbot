@@ -1,0 +1,182 @@
+{
+  "userSays": [
+    {
+      "id": "2d340250-d771-485d-aec7-ef09e77e1717",
+      "data": [
+        {
+          "text": "ece head of department"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e30ef2f7-9b6b-4014-b796-d37d23fb5c07",
+      "data": [
+        {
+          "text": "head ece"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3ae2c68d-fadf-4a96-a38c-13a1f7e41539",
+      "data": [
+        {
+          "text": "ece hod of dept"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "54fe3104-a034-456a-97c6-9323bae7e2b8",
+      "data": [
+        {
+          "text": "electronics hod"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "bd24e473-23a0-4198-829c-197292a201a9",
+      "data": [
+        {
+          "text": "electronics and comm head"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "3e7bc877-f69c-482c-95a6-fe2ab89923e8",
+      "data": [
+        {
+          "text": "ece head"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "013ee0b6-b9fc-43fc-b14f-148535a28a29",
+      "data": [
+        {
+          "text": "head of ece engg"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "51bf08f4-1670-432e-883b-2bc89fc2cca7",
+      "data": [
+        {
+          "text": "head of ece"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "3fdcca32-548a-4cc7-884f-338f973b7357",
+      "data": [
+        {
+          "text": "head of the department of ece"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "1b69e81e-7bb3-4af5-a621-80cef0e2c53f",
+      "data": [
+        {
+          "text": "electrical and communicaton of engineering hod"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7ad5e749-bc27-441d-b812-1dcd791551ce",
+      "data": [
+        {
+          "text": "hod of dept of ece"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a401cc27-db40-43d5-96ea-3b760a4ba7d3",
+      "data": [
+        {
+          "text": "hod of ece"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "176b4106-f613-41c8-8829-20c186e78c79",
+      "data": [
+        {
+          "text": "ece hod"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "dd0f214f-5081-44c0-9ad0-1be229bd9be2",
+  "name": "ece hod",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "telegram",
+          "title": "you may like",
+          "replies": [
+            "ece staff",
+            "ece labs",
+            "ece jobs",
+            "ece placements"
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "title": "you may like",
+          "replies": [
+            "ece staff",
+            "ece labs",
+            "ece jobs",
+            "ece placements"
+          ]
+        },
+        {
+          "type": 0,
+          "speech": "Mr.B.Ravichandra\nM.Tech\nDesignation :Assoc Prof \u0026 HOD\nExperience :11 Years"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true,
+        "telegram": true
+      }
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

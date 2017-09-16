@@ -1,0 +1,217 @@
+{
+  "userSays": [
+    {
+      "id": "ce462e71-a21e-4fdf-80cb-e038cf409bde",
+      "data": [
+        {
+          "text": "branches"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "936990f4-9746-466d-b75c-9b101ca47be5",
+      "data": [
+        {
+          "text": "streams"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "178ee1cc-f171-4e6f-8687-81f3b03d33c1",
+      "data": [
+        {
+          "text": "what all branches do you have in nsrit"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a97f03f8-308b-4860-88da-5a851d34d675",
+      "data": [
+        {
+          "text": "no of branches"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "20d7b2ac-2f02-424d-8fe5-d707c8833a3f",
+      "data": [
+        {
+          "text": "list of streams"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "7a8cf790-11ba-4d49-8dc4-f3759cc5aae2",
+      "data": [
+        {
+          "text": "how many streams"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f08936b0-59b1-4f95-9505-b986cae8489e",
+      "data": [
+        {
+          "text": "branches available in your college"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0f733667-e42a-4928-a061-b5d736d3ced3",
+      "data": [
+        {
+          "text": "name the departments of your college"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "803af5c4-22ef-4a6c-8781-cb95e7e7849b",
+      "data": [
+        {
+          "text": "list of departments in your college"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0ffafe3e-1eb7-42d7-9e1f-7f7fefe41abe",
+      "data": [
+        {
+          "text": "number of departments in your college"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "516a4e98-c63e-4cdd-b4a3-9d515bac62ac",
+      "data": [
+        {
+          "text": "available courses  in your college"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "858683eb-00ce-4dfc-9dc2-bc36c4ccce7f",
+      "data": [
+        {
+          "text": "available departments having in your college"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "2f4f645f-e245-4916-8330-a5da20bacfac",
+      "data": [
+        {
+          "text": "how many departments do you have"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3bebbdd6-8483-4340-bdca-08a46a5415d3",
+      "data": [
+        {
+          "text": "which departments you have"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "260ac4bd-95f1-4509-8f73-8d74879a97b0",
+      "data": [
+        {
+          "text": "how many departments you have"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "1df0b35e-2c45-4455-9091-8e94fe31d8ca",
+  "name": "departments",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 3,
+          "platform": "telegram",
+          "imageUrl": "http://pics.minglebox.com/5ba638941487589573631.bc0e1628.xl_branches.jpg"
+        },
+        {
+          "type": 2,
+          "platform": "telegram",
+          "title": "you May like",
+          "replies": [
+            "CSE",
+            "CIVIL",
+            "MECH",
+            "EEE",
+            "ECE"
+          ]
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "imageUrl": "http://pics.minglebox.com/5ba638941487589573631.bc0e1628.xl_branches.jpg"
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "title": "you may like",
+          "replies": [
+            "cse",
+            "CIVIL",
+            "EEE",
+            "MECH",
+            "ECE"
+          ]
+        },
+        {
+          "type": 0,
+          "speech": [
+            "1.CSE     \n2.CIVIL\n 3.ECE \n 4.EEE      \n 5.MECHANICAL",
+            null
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true,
+        "telegram": true
+      }
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,150 @@
+{
+  "userSays": [
+    {
+      "id": "074915ec-7f53-4d0e-9f86-424b2fcf8ba8",
+      "data": [
+        {
+          "text": "any activities conducted"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "316d49f1-d7e8-49af-a6bd-cd98062a8fed",
+      "data": [
+        {
+          "text": "regular activities"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6473d57e-64b9-456f-802e-e0058fc56efe",
+      "data": [
+        {
+          "text": "day to day activities"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f879f5fb-c162-4cfb-8624-4984734f3791",
+      "data": [
+        {
+          "text": "competetions"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "57bd5de9-1f04-45fd-a18d-64bbccbd15d4",
+      "data": [
+        {
+          "text": "dances"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1cab92e6-f288-489a-99c1-7640385b0927",
+      "data": [
+        {
+          "text": "events"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "80af9165-f5ab-4734-aaaa-746aa9b8c0be",
+      "data": [
+        {
+          "text": "international students day"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8ef3bf23-86ba-4e84-a0ff-faaa3dabd389",
+      "data": [
+        {
+          "text": "cultural activities"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ce653c48-9c10-406f-80c7-b566b3215171",
+      "data": [
+        {
+          "text": "college fest"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ac670a5d-db43-4833-a445-24fbb0e45bda",
+      "data": [
+        {
+          "text": "college fests"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b7f18935-ca16-4698-87ac-f295ef59e441",
+      "data": [
+        {
+          "text": "fests"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "9ab51409-163f-4cc8-8fa3-e9ca9808293a",
+  "name": "fests",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 3,
+          "platform": "telegram",
+          "imageUrl": "https://scontent-sit4-1.xx.fbcdn.net/v/t1.0-9/17458314_1285720708184442_1596059874977420903_n.jpg?oh\u003db2e6c16b93cd52dff24d26654abb8770\u0026oe\u003d5A094DDD"
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "imageUrl": "https://scontent-sit4-1.xx.fbcdn.net/v/t1.0-9/17458314_1285720708184442_1596059874977420903_n.jpg?oh\u003db2e6c16b93cd52dff24d26654abb8770\u0026oe\u003d5A094DDD"
+        },
+        {
+          "type": 0,
+          "speech": "About Fests in Nsrit:\n every year international level fests will be conducted"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true,
+        "telegram": true
+      }
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

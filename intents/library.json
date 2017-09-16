@@ -1,0 +1,186 @@
+{
+  "userSays": [
+    {
+      "id": "f229f6a4-6125-4929-87ba-0263d9db467c",
+      "data": [
+        {
+          "text": "librar"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3ac61ba3-48a5-420a-a8b8-243c48856e87",
+      "data": [
+        {
+          "text": "lib in clg"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "62e674bf-a7b2-45ca-8e7f-b0e265684841",
+      "data": [
+        {
+          "text": "does your college has a library"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "958163bb-0be9-4649-b4fc-620a19006fec",
+      "data": [
+        {
+          "text": "books for studying"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7685e2de-db14-4680-8550-82e2c9f22769",
+      "data": [
+        {
+          "text": "books for students"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "58cc4b55-bbee-4edc-ad2c-2932969d3c66",
+      "data": [
+        {
+          "text": "books"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "875993ec-6e28-409b-b660-3969d3df62e6",
+      "data": [
+        {
+          "text": "book issues"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ee3defcf-ec98-4173-b52f-00808e99fdf7",
+      "data": [
+        {
+          "text": "library facility"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d8c197db-b2a8-4e20-8374-27af636b3995",
+      "data": [
+        {
+          "text": "knowledge share center"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "95207ea1-b634-43d8-b1d0-238171159a89",
+      "data": [
+        {
+          "text": "central library"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "97179100-5c19-4343-ac4b-3c0a6ff94f98",
+      "data": [
+        {
+          "text": "describe about your college library"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3d2adf69-b7d8-4ed4-9908-d048938a8c8f",
+      "data": [
+        {
+          "text": "tell me about your college library"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "38491782-04bd-4cee-bf59-1243a3d355c7",
+      "data": [
+        {
+          "text": "library facilites"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "b827cd94-d6ab-40fa-9645-ea904c16efd3",
+      "data": [
+        {
+          "text": "library"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "b06daaff-1b6e-4f9e-afd8-c2741c30ac9d",
+  "name": "library",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 3,
+          "platform": "telegram",
+          "imageUrl": "http://nsrit.edu.in/admin/img/gallery/libgal1.jpg"
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "imageUrl": "http://nsrit.edu.in/admin/img/gallery/libgal1.jpg"
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "speech": "A digital library within the central library fulfills the electronic material needs of the students with a whopping  4500 video lectures and presentations by renowned professors of IITs and also Foreign Universities through the Unified Library Server. It has an institutional membership of DELNET, INFLIBNET.\n\nThe central library subscribes to all leading national and international journals such as the IEEE, ASME, World e-book library to help student and faculty members keep themselves abreast of the latest trends and developments in their respective fields."
+        },
+        {
+          "type": 0,
+          "speech": "To make life at NSRIT pleasant and comfortable for its students, the Campus is provided with the finest facilities and educational resources, which is established in the year 2008. The Library is one of the important facilities well developed with Digital Library and Reprographic facilities. This is equipped with new library software which helps in systematic organization of the library. Students can easily find books through OPAC. Journal section and Reference section equipped with advanced journals is a special attraction for the library. The library is offering the following service."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": false,
+        "telegram": true,
+        "google": true
+      }
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

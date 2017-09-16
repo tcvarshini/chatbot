@@ -1,0 +1,261 @@
+{
+  "userSays": [
+    {
+      "id": "ad725bd4-60a0-4dc1-ba70-8dd3720db133",
+      "data": [
+        {
+          "text": "mechanical department faculty"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "cfe5699b-6916-467d-beb1-201abba3b6bf",
+      "data": [
+        {
+          "text": "teachers of mechanical dept"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f1b099e9-b95b-4762-9146-67da661557c1",
+      "data": [
+        {
+          "text": "mech dept teachers"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9ba8ffe1-175e-44d1-ab62-d662eafbc361",
+      "data": [
+        {
+          "text": "mechanical teachers"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5723c939-4a61-4a7e-9af1-88d7d65b737f",
+      "data": [
+        {
+          "text": "professors for mech dept"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "415861b6-65dc-4eb8-a129-ff433f7e2ae3",
+      "data": [
+        {
+          "text": "professors for mech"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6b8da362-665d-4126-9dcd-9ec9c77a3bc3",
+      "data": [
+        {
+          "text": "lecturers for mech"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d1f84f0d-c975-4bca-9c1b-3d9737b2f427",
+      "data": [
+        {
+          "text": "professors for mechanical"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "09becc68-7942-4e43-8585-ef1451e02b77",
+      "data": [
+        {
+          "text": "mechanical faculty"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "69d473d7-1abc-4c21-bd9b-60dc056d7eb4",
+      "data": [
+        {
+          "text": "mechanical dept faculty"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "07501366-0385-43eb-a816-eda903358326",
+      "data": [
+        {
+          "text": "mechanical dept professors"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "56531d6b-01e4-45f4-a5fb-67d2cfe9e7c7",
+      "data": [
+        {
+          "text": "mechanical dept lecturers"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b4c42885-a912-4d5d-bcc6-34b47a292eb4",
+      "data": [
+        {
+          "text": "staff for mechanical engineering"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f005e833-e6da-49b1-b584-d85ea299abae",
+      "data": [
+        {
+          "text": "staff for mech"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6ff6b5f8-d66b-4d2b-a51a-71d63ffbbb44",
+      "data": [
+        {
+          "text": "staff for Mechanical engineering  department"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4d30db96-42f7-49df-beb3-fe462e84fead",
+      "data": [
+        {
+          "text": "Mechanical engineering  department staff"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f137681a-dfea-47f6-a64b-d1b299ab2d69",
+      "data": [
+        {
+          "text": "Mechanical engineering staff"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "04655e52-bfbe-438d-99d3-7b4c3850c253",
+      "data": [
+        {
+          "text": "mechanical staff"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "45a11f04-357e-46e1-aaef-66af2d50f46c",
+      "data": [
+        {
+          "text": "Mech staff"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "e63b2ebb-4aea-41c9-b8c1-ddb3b4887833",
+  "name": "Mech staff",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 3,
+          "platform": "telegram",
+          "imageUrl": "http://4.bp.blogspot.com/-6soeul8u5Zk/T-3VBXkLq6I/AAAAAAAAAXc/Yzk3yE1eq2Y/s1600/mech.jpg"
+        },
+        {
+          "type": 0,
+          "platform": "telegram",
+          "speech": "To accomplish this, the department consists of 46 dedicated tenured and tenure-track faculty, 30 plus research faculty and lecturers."
+        },
+        {
+          "type": 2,
+          "platform": "telegram",
+          "title": "You May Like",
+          "replies": [
+            "mech hod",
+            "mech  labs",
+            "mech placements"
+          ]
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "imageUrl": "http://4.bp.blogspot.com/-6soeul8u5Zk/T-3VBXkLq6I/AAAAAAAAAXc/Yzk3yE1eq2Y/s1600/mech.jpg"
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "speech": "To accomplish this, the department consists of 46 dedicated tenured and tenure-track faculty, 30 plus research faculty and lecturers."
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "title": "You May Like",
+          "replies": [
+            "Mech hod",
+            "Mech labs",
+            "Mech placements"
+          ]
+        },
+        {
+          "type": 0,
+          "speech": "The department has well-experienced and dedicated faculty members with technical and supporting staff\nTo know more : http://nsrit.edu.in/dept_faculty.php?d_id\u003d2"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": false,
+        "telegram": false,
+        "google": true
+      }
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

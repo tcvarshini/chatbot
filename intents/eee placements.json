@@ -1,0 +1,269 @@
+{
+  "userSays": [
+    {
+      "id": "23f37e8f-1403-44ce-b1e0-713cb568e998",
+      "data": [
+        {
+          "text": "eee ug jobs"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4d86aa60-f580-4cbc-8575-1587f249922d",
+      "data": [
+        {
+          "text": "placement for eee ug"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a35eebc8-34e6-4c2a-ad25-2c0ded34ce03",
+      "data": [
+        {
+          "text": "placements for eee students"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2ab56aa7-f920-4b7c-9910-9cafd33e0f9c",
+      "data": [
+        {
+          "text": "placements for eee graduates"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a0d16212-1b77-4bf4-9b14-4c3f3d7c08e4",
+      "data": [
+        {
+          "text": "electrical jobs"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2df5c400-1e6d-4423-959a-b21f65e1e70c",
+      "data": [
+        {
+          "text": "electrical and electronics jobs"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "41dcc442-ab91-4b72-9c17-aa1f3e5262d4",
+      "data": [
+        {
+          "text": "eee graduate jobs"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0492ce07-99d0-4d65-93a7-14eca91b43f8",
+      "data": [
+        {
+          "text": "eee student jobs"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1c0ea0ad-85f9-443b-af72-a999fc5a8cab",
+      "data": [
+        {
+          "text": "eee jobs"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1fda58c8-3ecd-4b05-b3b0-a79338923365",
+      "data": [
+        {
+          "text": "jobs eee"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5af41ebe-236c-4f54-8cf0-08f81ea16502",
+      "data": [
+        {
+          "text": "jobs for electrical graduates"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ec450b79-e6b3-4522-9720-15eaf15068f1",
+      "data": [
+        {
+          "text": "jobs for eee students"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "efcccf2a-3363-4198-aaf3-6e571d666a59",
+      "data": [
+        {
+          "text": "jobs for eee graduates"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "32c490df-ca1d-4041-9730-5bd28ba7ce98",
+      "data": [
+        {
+          "text": "companies for Electrical and Electronics Engineering department"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "1e297f87-1fd3-45ae-acfa-d1c2ee2fa8fc",
+      "data": [
+        {
+          "text": "companies for Electrical and Electronics Engineering"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "fae880fe-dc84-465c-a868-dfb5ed9de2bf",
+      "data": [
+        {
+          "text": "companies for eee"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3497a340-90bc-4557-b42c-f776c4e5cb83",
+      "data": [
+        {
+          "text": "placements for Electrical and Electronics Engineering"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7d9031fe-a167-4fb2-a47d-ceb3584d705c",
+      "data": [
+        {
+          "text": "Electrical and Electronics Engineering placements"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "70657622-d592-4f75-8cb5-0aa95eb39aa1",
+      "data": [
+        {
+          "text": "placements for eee"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "69e5b89a-3f77-4f04-88f8-8fe8080f2737",
+      "data": [
+        {
+          "text": "eee placements"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "2626285c-0261-4240-bfc4-4d5a1c2ef476",
+  "name": "eee placements",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "telegram",
+          "title": "",
+          "subtitle": "",
+          "imageUrl": "https://engineeringcareercoach.com/wp-content/uploads/2013/10/TB_-Top-Electrical-Engineering-Companies-To-Work-For.png",
+          "buttons": []
+        },
+        {
+          "type": 2,
+          "platform": "telegram",
+          "title": "You May Like",
+          "replies": [
+            "eee hod",
+            "eee staff",
+            "eee labs",
+            "eee jobs"
+          ]
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "imageUrl": "https://engineeringcareercoach.com/wp-content/uploads/2013/10/TB_-Top-Electrical-Engineering-Companies-To-Work-For.png"
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "speech": "About EEE Placements:\n\n    1. Bharat Electronics Ltd.(BEL)\n2. Flakt (India) Ltd \n3. Ford India Ltd \n4. Bharat Heavy Electricals limited(BHEL)\n4. Jindal Steel and Power Limited\n5. Heavy Vehicles Factory, Avadi \n6. Hindustan Motors Ltd \n7. National Thermal Power Corporation(NTPC)\n8. Steel Authority of India Limited(SAIL)\n9. Integral coach factory, perambur(ICF)\n10. Siemens"
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "title": "You May Like",
+          "replies": [
+            "eee hod",
+            "eee staff",
+            "eee labs",
+            "eee jobs"
+          ]
+        },
+        {
+          "type": 0,
+          "speech": "Studying EEE will lead to potential careers in the areas of R\u0026D, Power Generation, Transmission \u0026 Distribution Sectors.\n  \n1)Reliance\n2)ONGC\n3)Coal India\n4)Tata Consultancy\n5)ITC Ltd.\n6)Infosys\n7)Bharti Airtel\n8)NTPC\n9)Nalco\n10)Jindal\n No.of students placed:10 Aprx"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      }
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

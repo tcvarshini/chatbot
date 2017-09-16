@@ -1,0 +1,130 @@
+{
+  "userSays": [
+    {
+      "id": "06936129-4b3e-47ed-8775-ba28cae4f1cd",
+      "data": [
+        {
+          "text": "sports facility"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a5375866-d1bb-4312-980e-940888609626",
+      "data": [
+        {
+          "text": "pt"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7cc8026c-1cab-41b3-b459-e7ee9ac72979",
+      "data": [
+        {
+          "text": "physical training"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5fb90a2b-505b-48e1-8333-90b512c1a9b1",
+      "data": [
+        {
+          "text": "clg games"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "fc7ee56f-3d7f-4229-b3ed-37ca659f3bb6",
+      "data": [
+        {
+          "text": "gaming"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5a04d1e9-021f-4745-803a-d2fd214b5c63",
+      "data": [
+        {
+          "text": "games"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8d9ec39b-f835-4a35-bd50-756b8b2bce93",
+      "data": [
+        {
+          "text": "which games does your college offer?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b79f83f1-a19a-4d70-97ea-19222c40bc1e",
+      "data": [
+        {
+          "text": "sports"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f4fd8a86-6b28-415a-8326-0c89857777c9",
+      "data": [
+        {
+          "text": "What kind of sports does your college have?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "cb555055-3e45-457b-b0b5-c34152df4761",
+  "name": "sports",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 3,
+          "platform": "telegram",
+          "imageUrl": "http://nsrit.edu.in/admin/img/cms/sports.jpg"
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "imageUrl": "http://nsrit.edu.in/admin/img/cms/sports.jpg"
+        },
+        {
+          "type": 0,
+          "speech": "3 Athletics Tracks\t3 Basketball Courts 5 Volleyball Courts\t10 Badminton Courts 2 Cricket Nets\t2 Football Courts 2 Kho-Kho Courts\t5 Throwball Courts 4 Kabaddi Courts     Indoor Games:Table Tennis, Chess, Carroms, Billiards"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true,
+        "telegram": true
+      }
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

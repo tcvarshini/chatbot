@@ -1,0 +1,21 @@
+{
+  "id": "408770f6-d628-4637-b222-c112b1c04f30",
+  "name": "bg",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "A+",
+      "synonyms": [
+        "A+"
+      ]
+    },
+    {
+      "value": "B+",
+      "synonyms": [
+        "B+"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

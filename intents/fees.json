@@ -1,0 +1,110 @@
+{
+  "userSays": [
+    {
+      "id": "d126b40d-8104-4450-89ba-c7a3b3d202f9",
+      "data": [
+        {
+          "text": "how much fee"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "614756b7-7a59-44db-bbe9-cc50afae6db0",
+      "data": [
+        {
+          "text": "how much do we need to pay for tuition"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "93522263-2711-4e0e-a8e5-405b089c2b75",
+      "data": [
+        {
+          "text": "fees in college"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ec19e65a-badf-45d0-b45e-2bbc214d1f10",
+      "data": [
+        {
+          "text": "fees structure"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "11bf353d-9c4a-438e-9c22-d8af3a8d4911",
+      "data": [
+        {
+          "text": "fee"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "bb41383f-db0c-4d80-b42a-cfe37bdd01aa",
+      "data": [
+        {
+          "text": "fees of college"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c3742f68-8bd2-4491-93c0-c9391e8faa62",
+      "data": [
+        {
+          "text": "how much fees"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "90d9156b-4be7-4c2e-9329-e52b84e425e7",
+      "data": [
+        {
+          "text": "fees"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "aa0899dc-17cf-4648-9207-f89213b92069",
+  "name": "fees",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "DIPLOMA : EEE \u0026 ME\tIst year\t15500/-\n  \nUG : ALL Branches (CE, CSE, ECE, EEE, ME)\tIst year\t50200/-\n\nPG : M.Tech\t1st Year\t57,000/-\n\nMBA\t1st Year\t27000/-"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true,
+        "telegram": true
+      }
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

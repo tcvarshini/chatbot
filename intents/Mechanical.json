@@ -1,0 +1,211 @@
+{
+  "userSays": [
+    {
+      "id": "04717011-de77-458e-a09e-1dab8e1d03e2",
+      "data": [
+        {
+          "text": "mechanica"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c85747f0-25ee-48b5-9a1e-31867ed7bd5d",
+      "data": [
+        {
+          "text": "mechanical engineering department"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e5734494-ce7e-4992-909e-4bbc590e4a87",
+      "data": [
+        {
+          "text": "mech dept engineering"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4894c89f-35a3-4df8-bc0f-7a8b98771942",
+      "data": [
+        {
+          "text": "mech dept engg"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b02f3b43-aacd-4d08-9711-e6c8e642f5a3",
+      "data": [
+        {
+          "text": "mech engineering"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "36677892-668c-480d-a590-f20eb774db29",
+      "data": [
+        {
+          "text": "mechanical engineering"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "cc2cb845-08de-4255-a0ed-10f1f84bdc11",
+      "data": [
+        {
+          "text": "mechanical under graduation"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1c6a6871-e43f-4e2d-b4ef-be18e4600e08",
+      "data": [
+        {
+          "text": "does college take in mechanical graduates"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c1d987e8-6505-46cd-a1c0-98abd1e3751b",
+      "data": [
+        {
+          "text": "does college take mechanical students"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2bdcac9e-477e-48aa-91df-3bb96f7ffdcc",
+      "data": [
+        {
+          "text": "does clg take in mech graduates"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9c3e411e-1ad3-4c44-ad6f-0c8904a166bf",
+      "data": [
+        {
+          "text": "does clg take in mech students"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "fc948140-74ed-4ac5-9c78-b8283feb61a5",
+      "data": [
+        {
+          "text": "mechanical department"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "98aeb8a9-67b9-461f-9186-66d828052f25",
+      "data": [
+        {
+          "text": "mechanical"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "41c318da-0248-4c0d-92c3-39c807448085",
+      "data": [
+        {
+          "text": "mech"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "50ea9432-c0c3-4099-a405-c4d1e19d4536",
+  "name": "Mechanical",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 3,
+          "platform": "telegram",
+          "imageUrl": "http://aolpapers.com/wp-content/uploads/2015/12/Mechanical-engineering-aolpapers.com-.jpg"
+        },
+        {
+          "type": 2,
+          "platform": "telegram",
+          "title": "you may like",
+          "replies": [
+            "mech hod",
+            "mech staff",
+            "mech labs",
+            "mech placements"
+          ]
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "imageUrl": "http://aolpapers.com/wp-content/uploads/2015/12/Mechanical-engineering-aolpapers.com-.jpg"
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "speech": "About Mechanical Engineering:\n      Department of Mechanical Engineering moulds engineers who strive for excellence in high-quality education and outstanding professional services. Mechanical Engineering has lot of opportunities due to vast expansion in the fields of power, production \u0026 heat engineering.\n     The department is continuing its services through its workshop in manufacturing various infrastructural needs of the college i.e., Drawing tables \u0026 stools, Glow sign boards and many more."
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "title": "You May Like",
+          "replies": [
+            "Mech hod",
+            "Mech staff",
+            "Mech labs",
+            "Mech placements"
+          ]
+        },
+        {
+          "type": 0,
+          "speech": [
+            "Managing moving machines of the world! It is this catchy phrase that has made Mechanical Engineering the thriving branch for being an integral part in shaping our world run on machines. The Mechanical Engineering department at Aditya has earned a place of high repute through its quality teaching rendered by highly qualified and experienced faculty\nNo.of Seats  :120\nNo.of faculty: 18\nNo.of Labs:7",
+            ""
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": false,
+        "telegram": true,
+        "google": true
+      }
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

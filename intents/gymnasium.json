@@ -1,0 +1,130 @@
+{
+  "userSays": [
+    {
+      "id": "d367ba8f-2358-41d0-b55b-e7aa0faf75eb",
+      "data": [
+        {
+          "text": "body fitness"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "664893bf-872c-4a69-8200-2f63ef5c330b",
+      "data": [
+        {
+          "text": "fitness"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9e0888bc-d2fe-428b-a27e-f51097b31545",
+      "data": [
+        {
+          "text": "physical fitness"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9bd453da-d7b0-4753-ada6-75fa052502a7",
+      "data": [
+        {
+          "text": "exercise"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0905d468-5da1-420b-a249-c0f7ecfbbe40",
+      "data": [
+        {
+          "text": "workout facility"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "609c0029-4ab8-4954-af07-b4585630e8f2",
+      "data": [
+        {
+          "text": "workout"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "cff201f1-508e-4117-a1b9-ac8f02c40c04",
+      "data": [
+        {
+          "text": "zym"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "980f7a46-e148-471c-9f6f-488925c29103",
+      "data": [
+        {
+          "text": "gymnasium"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ff513f39-7ab5-436c-b101-1a874ce3d107",
+      "data": [
+        {
+          "text": "gym"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "4f2fc2f9-08a5-4f8f-bc7d-d756b2ae5ede",
+  "name": "gymnasium",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 3,
+          "platform": "facebook",
+          "imageUrl": "https://img.grouponcdn.com/deal/3YLiFuy3xreSDGpMTD8Uf9fy8LdK/3Y-2048x1229/v1/c700x420.jpg"
+        },
+        {
+          "type": 3,
+          "platform": "telegram",
+          "imageUrl": "https://img.grouponcdn.com/deal/3YLiFuy3xreSDGpMTD8Uf9fy8LdK/3Y-2048x1229/v1/c700x420.jpg"
+        },
+        {
+          "type": 0,
+          "speech": "Yes. Our college has the workout facility\n\n1.     1 Elliptical Cross Trainer\t\n2\t4 Fan Bikes \n3\t4 Sit up Benches\t\n4\tChrome Plates Steel\t100 Kgs\n5\tSteel Dumbbells\t56 Kgs\n6\t5 ft Rods 4 No’s\n7\t6 ft Rods 4 No’s\n8\t4 Multi Functional Thread Mill\n9\t12 Station Gym"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true,
+        "telegram": true
+      }
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

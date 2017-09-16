@@ -1,0 +1,153 @@
+{
+  "userSays": [
+    {
+      "id": "25b1af9e-2f98-4338-92e7-82bcecd8d204",
+      "data": [
+        {
+          "text": "founder of nsrit"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "efd5df2a-55d2-4770-afd4-7ef799230752",
+      "data": [
+        {
+          "text": "founder"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4174b421-118e-4151-854f-a86fdd54414f",
+      "data": [
+        {
+          "text": "president"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "24bb6825-4952-4133-9601-62de7afc57f6",
+      "data": [
+        {
+          "text": "chairman"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "871ee522-13e2-4aa5-82cd-fab0f09d2187",
+      "data": [
+        {
+          "text": "clg chairman"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "69865cf3-8873-49d6-aa31-2be51930a11b",
+      "data": [
+        {
+          "text": "may i know the name of your chairman"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b7eee8c1-bc24-4a1e-94e3-80468ea4d670",
+      "data": [
+        {
+          "text": "who is your chairman"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "bd7a9109-74d9-4f6c-bbd2-10c87e5fb141",
+      "data": [
+        {
+          "text": "tell me your college chairman name"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "731541cf-625e-495d-9c0a-b2c3e2e404a8",
+      "data": [
+        {
+          "text": "can i know the name of your college chairman"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f22a462e-55cd-4c56-82f3-d6a53b3b7246",
+      "data": [
+        {
+          "text": "what\u0027s the name of your college chairman"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "fc2f1999-7733-4377-83cd-83bdf422d876",
+      "data": [
+        {
+          "text": "what is your chairman name"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    }
+  ],
+  "id": "631a2dcf-351a-4182-b4c9-1350cc3fdba9",
+  "name": "chairman",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 3,
+          "platform": "telegram",
+          "imageUrl": "http://nsrit.edu.in/admin/img/cms/president.jpg"
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "imageUrl": "http://nsrit.edu.in/admin/img/cms/president.jpg"
+        },
+        {
+          "type": 0,
+          "speech": [
+            "Sri N. Satyanarayana Raju",
+            "Sri N. Satyanarayana Raju garu"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true,
+        "telegram": true
+      }
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}
